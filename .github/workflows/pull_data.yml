@@ -1,0 +1,33 @@
+name: Pull TfL Cycle Data
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # runs at the top of every hour
+  workflow_dispatch:        # lets you trigger it manually too
+
+jobs:
+  pull-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pandas
+
+      - name: Run extract script
+        env:
+          TFL_APP_KEY: ${{ secrets.TFL_APP_KEY }}
+        run: python extract_tfl.py
+
+      - name: Commit and push new data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/
+          git commit -m "Automated data pull $(date)" || echo "No changes"
+          git push
