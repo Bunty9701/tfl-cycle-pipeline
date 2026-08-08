@@ -1,0 +1,800 @@
+station_id,station_name,lat,lon,bikes_available,empty_docks,total_docks,pulled_at
+BikePoints_1,"River Street , Clerkenwell",51.529163,-0.10997,3,14,19,2026-08-08T11:26:52.902006
+BikePoints_2,"Phillimore Gardens, Kensington",51.499606,-0.197574,25,10,37,2026-08-08T11:26:52.902022
+BikePoints_3,"Christopher Street, Liverpool Street",51.521283,-0.084605,3,29,32,2026-08-08T11:26:52.902026
+BikePoints_4,"St. Chad's Street, King's Cross",51.530059,-0.120973,20,1,23,2026-08-08T11:26:52.902030
+BikePoints_5,"Sedding Street, Sloane Square",51.49313,-0.156876,12,13,27,2026-08-08T11:26:52.902033
+BikePoints_6,"Broadcasting House, Marylebone",51.518117,-0.144228,4,13,18,2026-08-08T11:26:52.902036
+BikePoints_7,"Charlbert Street, St. John's Wood",51.5343,-0.168074,5,11,16,2026-08-08T11:26:52.902039
+BikePoints_8,"Maida Vale, Maida Vale",51.529857,-0.183486,6,30,39,2026-08-08T11:26:52.902044
+BikePoints_9,"New Globe Walk, Bankside",51.507385,-0.09644,0,17,19,2026-08-08T11:26:52.902047
+BikePoints_10,"Park Street, Bankside",51.505974,-0.092754,2,15,18,2026-08-08T11:26:52.902053
+BikePoints_11,"Brunswick Square, Bloomsbury",51.523951,-0.122502,7,16,24,2026-08-08T11:26:52.902056
+BikePoints_12,"Malet Street, Bloomsbury",51.52168,-0.130431,14,33,49,2026-08-08T11:26:52.902060
+BikePoints_13,"Scala Street, Fitzrovia",51.519914,-0.136039,2,19,21,2026-08-08T11:26:52.902062
+BikePoints_14,"Argyle Street, Kings Cross",51.529416,-0.123944,14,23,45,2026-08-08T11:26:52.902065
+BikePoints_15,"Great Russell Street, Bloomsbury",51.517727,-0.127854,1,23,26,2026-08-08T11:26:52.902068
+BikePoints_16,"Cartwright Gardens , Bloomsbury",51.526357,-0.125979,12,7,21,2026-08-08T11:26:52.902071
+BikePoints_17,"Hatton Wall, Holborn",51.521661,-0.109006,2,22,26,2026-08-08T11:26:52.902074
+BikePoints_18,"Drury Lane, Covent Garden",51.51477,-0.122219,13,12,27,2026-08-08T11:26:52.902079
+BikePoints_19,"Taviton Street, Bloomsbury",51.52505,-0.131161,21,6,30,2026-08-08T11:26:52.902082
+BikePoints_20,"Drummond Street , Euston",51.527326,-0.136052,7,20,28,2026-08-08T11:26:52.902085
+BikePoints_21,"Lansdowne Drive, Hackney Central",51.539834,-0.062806,10,14,26,2026-08-08T11:26:52.902088
+BikePoints_22,"Northington Street , Holborn",51.522264,-0.114079,1,16,19,2026-08-08T11:26:52.902091
+BikePoints_23,"Red Lion Square, Holborn",51.519435,-0.119123,0,16,16,2026-08-08T11:26:52.902094
+BikePoints_24,"British Museum, Bloomsbury",51.51908,-0.124678,4,27,35,2026-08-08T11:26:52.902096
+BikePoints_25,"Doric Way , Somers Town",51.528833,-0.13225,40,10,50,2026-08-08T11:26:52.902099
+BikePoints_26,"Ampton Street , Clerkenwell",51.52728,-0.118295,14,3,21,2026-08-08T11:26:52.902102
+BikePoints_28,"Bolsover Street, Fitzrovia",51.523518,-0.143613,5,14,19,2026-08-08T11:26:52.902105
+BikePoints_29,"Hereford Road, Bayswater",51.513735,-0.193487,6,15,22,2026-08-08T11:26:52.902107
+BikePoints_30,"Windsor Terrace, Hoxton",51.529154,-0.093421,10,14,24,2026-08-08T11:26:52.902112
+BikePoints_31,"Fanshaw Street, Hoxton",51.529537,-0.083353,26,10,36,2026-08-08T11:26:52.902115
+BikePoints_33,"Central House, Aldgate",51.515231,-0.07015,10,13,24,2026-08-08T11:26:52.902118
+BikePoints_34,"Pancras Road, King's Cross",51.534123,-0.129386,10,5,16,2026-08-08T11:26:52.902121
+BikePoints_36,"De Vere Gardens, Kensington",51.501737,-0.18498,1,26,28,2026-08-08T11:26:52.902123
+BikePoints_37,"Penywern Road, Earl's Court",51.491593,-0.192369,0,17,17,2026-08-08T11:26:52.902126
+BikePoints_38,"Abingdon Villas, Kensington",51.497387,-0.197245,11,5,17,2026-08-08T11:26:52.902129
+BikePoints_39,"Shoreditch High Street, Shoreditch",51.526377,-0.07813,5,36,41,2026-08-08T11:26:52.902132
+BikePoints_40,"Commercial Street, Shoreditch",51.52127,-0.075578,7,9,16,2026-08-08T11:26:52.902135
+BikePoints_41,"Pindar Street, Liverpool Street",51.520955,-0.083493,7,16,24,2026-08-08T11:26:52.902138
+BikePoints_42,"Wenlock Road , Hoxton",51.530991,-0.093903,18,10,28,2026-08-08T11:26:52.902140
+BikePoints_43,"Crawford Street, Marylebone",51.52026,-0.157183,5,11,18,2026-08-08T11:26:52.902143
+BikePoints_44,"Bruton Street, Mayfair",51.510736,-0.144165,7,14,21,2026-08-08T11:26:52.902146
+BikePoints_45,"Boston Place, Marylebone",51.522511,-0.162298,1,18,26,2026-08-08T11:26:52.902149
+BikePoints_46,"Nesham Street, Wapping",51.507131,-0.06691,2,13,16,2026-08-08T11:26:52.902152
+BikePoints_47,"Warwick Avenue Station, Maida Vale",51.523344,-0.183846,5,12,19,2026-08-08T11:26:52.902155
+BikePoints_48,"Godliman Street, St. Paul's",51.512484,-0.099141,5,20,25,2026-08-08T11:26:52.902158
+BikePoints_49,"Curzon Street, Mayfair",51.507069,-0.145904,4,12,16,2026-08-08T11:26:52.902161
+BikePoints_50,"East Road, Hoxton",51.528673,-0.087459,8,17,27,2026-08-08T11:26:52.902164
+BikePoints_51,"Finsbury Library , Finsbury",51.526717,-0.104298,11,18,29,2026-08-08T11:26:52.902167
+BikePoints_52,"Roscoe Street, St. Luke's",51.522954,-0.094934,0,18,18,2026-08-08T11:26:52.902171
+BikePoints_53,"Grafton Street, Mayfair",51.509992,-0.143495,7,10,18,2026-08-08T11:26:52.902174
+BikePoints_54,"Golden Lane, Barbican",51.521747,-0.094475,0,27,27,2026-08-08T11:26:52.902177
+BikePoints_55,"Finsbury Circus, Liverpool Street",51.517075,-0.086685,9,24,33,2026-08-08T11:26:52.902180
+BikePoints_56,"Paddington Street, Marylebone",51.520583,-0.154701,2,14,16,2026-08-08T11:26:52.902182
+BikePoints_57,"Guilford Street , Bloomsbury",51.523346,-0.120202,3,26,32,2026-08-08T11:26:52.902185
+BikePoints_58,"New Inn Yard, Shoreditch",51.524526,-0.079248,5,15,20,2026-08-08T11:26:52.902190
+BikePoints_60,"Lisson Grove, St. John's Wood",51.526448,-0.17219,9,8,18,2026-08-08T11:26:52.902193
+BikePoints_61,"Great Dover Street, The Borough",51.497382,-0.089446,6,26,33,2026-08-08T11:26:52.902196
+BikePoints_62,"Cotton Garden Estate, Kennington",51.490757,-0.106323,15,9,24,2026-08-08T11:26:52.902198
+BikePoints_63,"Murray Grove , Hoxton",51.53089,-0.089782,23,4,27,2026-08-08T11:26:52.902201
+BikePoints_64,"William IV Street, Strand",51.509462,-0.124749,3,23,26,2026-08-08T11:26:52.902204
+BikePoints_65,"Gower Place , Euston",51.525227,-0.135188,12,2,17,2026-08-08T11:26:52.902207
+BikePoints_66,"Holborn Circus, Holborn",51.51795,-0.108657,1,36,40,2026-08-08T11:26:52.902210
+BikePoints_67,"Hatton Garden, Holborn",51.518825,-0.108028,1,26,28,2026-08-08T11:26:52.902213
+BikePoints_68,"Theobald's Road , Holborn",51.520596,-0.116688,5,20,26,2026-08-08T11:26:52.902216
+BikePoints_69,"Euston Road, Euston",51.526236,-0.134407,10,9,24,2026-08-08T11:26:52.902219
+BikePoints_70,"Calshot Street , King's Cross",51.53136,-0.117069,1,22,24,2026-08-08T11:26:52.902222
+BikePoints_71,"Newgate Street , St. Paul's",51.515768,-0.099894,4,30,35,2026-08-08T11:26:52.902225
+BikePoints_72,"Farringdon Lane, Clerkenwell",51.52352,-0.10834,1,13,16,2026-08-08T11:26:52.902229
+BikePoints_73,"Old Street Station, St. Luke's",51.525615,-0.088532,3,30,34,2026-08-08T11:26:52.902232
+BikePoints_74,"Vauxhall Cross, Vauxhall",51.485917,-0.124469,8,4,17,2026-08-08T11:26:52.902237
+BikePoints_75,"Torrens Street, Angel",51.532199,-0.10548,6,10,19,2026-08-08T11:26:52.902240
+BikePoints_76,"Longford Street, The Regent's Park",51.525595,-0.144083,14,6,21,2026-08-08T11:26:52.902242
+BikePoints_77,"Russell Square Station, Bloomsbury",51.523418,-0.124121,1,23,26,2026-08-08T11:26:52.902246
+BikePoints_78,"Sadlers Sports Centre, Finsbury",51.524868,-0.099489,1,16,17,2026-08-08T11:26:52.902249
+BikePoints_79,"Arundel Street, Temple",51.511726,-0.113855,5,13,18,2026-08-08T11:26:52.902252
+BikePoints_80,"Webber Street , Southwark",51.500693,-0.102091,3,40,45,2026-08-08T11:26:52.902255
+BikePoints_81,"Great Titchfield Street, Fitzrovia",51.520253,-0.141327,2,16,19,2026-08-08T11:26:52.902257
+BikePoints_83,"Panton Street, West End",51.509639,-0.13151,9,10,21,2026-08-08T11:26:52.902260
+BikePoints_84,"Breams Buildings, Holborn",51.515937,-0.111778,2,22,25,2026-08-08T11:26:52.902263
+BikePoints_85,"Tanner Street, Bermondsey",51.500647,-0.0786,3,37,41,2026-08-08T11:26:52.902266
+BikePoints_86,"Sancroft Street, Vauxhall",51.489479,-0.115156,11,11,24,2026-08-08T11:26:52.902269
+BikePoints_87,"Devonshire Square, Liverpool Street",51.516468,-0.079684,1,14,16,2026-08-08T11:26:52.902272
+BikePoints_88,"Percy Street, Bloomsbury",51.51863,-0.132676,3,26,29,2026-08-08T11:26:52.902275
+BikePoints_89,"Tavistock Place, Bloomsbury",51.52625,-0.123509,3,15,19,2026-08-08T11:26:52.902278
+BikePoints_90,"Harrington Square 1, Camden Town",51.533019,-0.139174,2,24,27,2026-08-08T11:26:52.902280
+BikePoints_91,"Walnut Tree Walk, Vauxhall",51.493686,-0.111014,1,18,20,2026-08-08T11:26:52.902283
+BikePoints_92,"Borough Road, Elephant & Castle",51.498898,-0.10044,1,38,41,2026-08-08T11:26:52.902286
+BikePoints_93,"Cloudesley Road, Angel",51.534408,-0.109025,7,28,37,2026-08-08T11:26:52.902290
+BikePoints_94,"Bricklayers Arms, Borough",51.495061,-0.085814,11,16,28,2026-08-08T11:26:52.902293
+BikePoints_95,"Aldersgate Street, Barbican",51.520841,-0.09734,3,11,15,2026-08-08T11:26:52.902296
+BikePoints_96,"Falkirk Street, Hoxton",51.53095,-0.078505,18,7,26,2026-08-08T11:26:52.902299
+BikePoints_97,"Gloucester Road (North), Kensington",51.497924,-0.183834,2,16,18,2026-08-08T11:26:52.902302
+BikePoints_98,"Hampstead Road, Euston",51.525542,-0.138231,4,49,54,2026-08-08T11:26:52.902305
+BikePoints_101,"Queen Street 1, Bank",51.511553,-0.09294,5,16,22,2026-08-08T11:26:52.902308
+BikePoints_102,"Jewry Street, Aldgate",51.513406,-0.076793,4,12,17,2026-08-08T11:26:52.902311
+BikePoints_103,"Vicarage Gate, Kensington",51.504723,-0.192538,3,13,18,2026-08-08T11:26:52.902314
+BikePoints_104,"Crosswall, Tower",51.511594,-0.077121,2,28,34,2026-08-08T11:26:52.902316
+BikePoints_105,"Westbourne Grove, Bayswater",51.515529,-0.19024,14,11,26,2026-08-08T11:26:52.902319
+BikePoints_106,"Woodstock Street, Mayfair",51.514105,-0.147301,4,15,21,2026-08-08T11:26:52.902322
+BikePoints_107,"Finsbury Leisure Centre, St. Luke's",51.526008,-0.096317,6,13,20,2026-08-08T11:26:52.902325
+BikePoints_109,"Soho Square , Soho",51.515631,-0.132328,17,34,57,2026-08-08T11:26:52.902328
+BikePoints_110,"Wellington Road, St. John's Wood",51.533043,-0.172528,2,14,17,2026-08-08T11:26:52.902331
+BikePoints_111,"Park Lane , Hyde Park",51.510017,-0.157275,18,8,28,2026-08-08T11:26:52.902333
+BikePoints_112,"Stonecutter Street, Holborn",51.515809,-0.10527,2,17,21,2026-08-08T11:26:52.902336
+BikePoints_113,"Gloucester Road (Central), South Kensington",51.496462,-0.183289,1,18,19,2026-08-08T11:26:52.902339
+BikePoints_114,"Park Road (Baker Street), The Regent's Park",51.524517,-0.158963,8,12,22,2026-08-08T11:26:52.902342
+BikePoints_115,"Braham Street, Aldgate",51.514233,-0.073537,3,27,34,2026-08-08T11:26:52.902346
+BikePoints_116,"Little Argyll Street, West End",51.514499,-0.141423,10,10,21,2026-08-08T11:26:52.902349
+BikePoints_117,"Lollard Street, Vauxhall",51.49288,-0.114934,12,11,25,2026-08-08T11:26:52.902352
+BikePoints_118,"Rochester Row, Westminster",51.495827,-0.135478,5,7,13,2026-08-08T11:26:52.902355
+BikePoints_119,"Bath Street, St. Luke's",51.525893,-0.090847,3,13,18,2026-08-08T11:26:52.902358
+BikePoints_120,"The Guildhall, Guildhall",51.515735,-0.09308,1,15,17,2026-08-08T11:26:52.902360
+BikePoints_121,"Baker Street, Marylebone",51.518913,-0.156166,6,15,22,2026-08-08T11:26:52.902363
+BikePoints_123,"St. John Street, Finsbury",51.52836,-0.104724,9,8,18,2026-08-08T11:26:52.902366
+BikePoints_124,"Eaton Square, Belgravia",51.496544,-0.150905,5,13,18,2026-08-08T11:26:52.902369
+BikePoints_125,"Borough High Street, The Borough",51.500694,-0.094524,5,15,21,2026-08-08T11:26:52.902372
+BikePoints_126,"Museum of London, Barbican",51.517821,-0.096496,7,43,52,2026-08-08T11:26:52.902375
+BikePoints_127,"Wood Street, Guildhall",51.517008,-0.093885,5,11,17,2026-08-08T11:26:52.902378
+BikePoints_128,"Emperor's Gate, South Kensington",51.495362,-0.185296,4,17,22,2026-08-08T11:26:52.902382
+BikePoints_129,"Golden Square, Soho",51.511897,-0.137043,9,6,18,2026-08-08T11:26:52.902386
+BikePoints_130,"Tower Gardens , Tower",51.509506,-0.075459,13,9,24,2026-08-08T11:26:52.902389
+BikePoints_131,"Eversholt Street , Camden Town",51.533005,-0.136792,5,9,16,2026-08-08T11:26:52.902392
+BikePoints_132,"Bethnal Green Road, Shoreditch",51.523648,-0.074754,8,30,38,2026-08-08T11:26:52.902395
+BikePoints_133,"Derry Street, Kensington",51.501364,-0.191462,15,2,18,2026-08-08T11:26:52.902397
+BikePoints_134,"Wapping High Street, Wapping",51.504904,-0.06797,16,3,20,2026-08-08T11:26:52.902400
+BikePoints_135,"Clerkenwell Green, Clerkenwell",51.52326,-0.104708,5,16,21,2026-08-08T11:26:52.902403
+BikePoints_136,"Queen Victoria Street, St. Paul's",51.511961,-0.097441,0,31,32,2026-08-08T11:26:52.902407
+BikePoints_138,"Green Street, Mayfair",51.512276,-0.157436,5,14,19,2026-08-08T11:26:52.902411
+BikePoints_139,"Lambeth Road, Vauxhall",51.494881,-0.117974,8,8,18,2026-08-08T11:26:52.902413
+BikePoints_140,"Finsbury Square , Moorgate",51.520962,-0.085634,6,26,33,2026-08-08T11:26:52.902417
+BikePoints_141,"Chapel Place, Marylebone",51.515308,-0.147203,7,21,29,2026-08-08T11:26:52.902419
+BikePoints_142,"West Cromwell Road, Earl's Court",51.493724,-0.198286,0,23,24,2026-08-08T11:26:52.902422
+BikePoints_143,"Pont Street, Knightsbridge",51.496886,-0.161203,7,16,24,2026-08-08T11:26:52.902425
+BikePoints_144,"Kennington Cross, Kennington",51.48894,-0.111435,26,17,47,2026-08-08T11:26:52.902428
+BikePoints_145,"Ilchester Place, Kensington",51.500743,-0.202759,2,21,24,2026-08-08T11:26:52.902431
+BikePoints_146,"Vauxhall Bridge , Pimlico",51.488365,-0.129361,2,33,35,2026-08-08T11:26:52.902433
+BikePoints_147,"Portugal Street, Holborn",51.514943,-0.116146,4,12,16,2026-08-08T11:26:52.902436
+BikePoints_148,"Tachbrook Street, Victoria",51.492111,-0.138364,0,16,16,2026-08-08T11:26:52.902439
+BikePoints_149,"Kennington Road Post Office, Oval",51.484788,-0.110683,5,13,18,2026-08-08T11:26:52.902442
+BikePoints_150,"Holy Trinity Brompton, Knightsbridge",51.497056,-0.168917,11,16,28,2026-08-08T11:26:52.902445
+BikePoints_151,"Chepstow Villas, Notting Hill",51.512136,-0.201554,10,14,26,2026-08-08T11:26:52.902447
+BikePoints_152,"Hampton Street, Walworth",51.49217,-0.101536,0,17,21,2026-08-08T11:26:52.902450
+BikePoints_153,"Bayswater Road, Hyde Park",51.511933,-0.174411,3,23,27,2026-08-08T11:26:52.902453
+BikePoints_154,"Waterloo Station 3, Waterloo",51.503791,-0.112824,13,21,35,2026-08-08T11:26:52.902456
+BikePoints_155,"Lexham Gardens, Kensington",51.495866,-0.191933,4,13,19,2026-08-08T11:26:52.902459
+BikePoints_156,"New Kent Road, The Borough",51.494436,-0.092921,4,29,33,2026-08-08T11:26:52.902463
+BikePoints_157,"Wright's Lane, Kensington",51.500397,-0.193068,5,30,37,2026-08-08T11:26:52.902466
+BikePoints_158,"Trebovir Road, Earl's Court",51.490853,-0.19617,3,15,18,2026-08-08T11:26:52.902469
+BikePoints_160,"Waterloo Place, St. James's",51.506633,-0.131773,2,18,20,2026-08-08T11:26:52.902472
+BikePoints_162,"Southampton Place, Holborn",51.517606,-0.121328,1,18,20,2026-08-08T11:26:52.902475
+BikePoints_163,"Sloane Avenue, Knightsbridge",51.493184,-0.167894,0,27,27,2026-08-08T11:26:52.902478
+BikePoints_164,"Cleveland Gardens, Bayswater",51.515607,-0.183118,1,13,16,2026-08-08T11:26:52.902480
+BikePoints_165,"Orsett Terrace, Bayswater",51.517932,-0.183716,3,11,15,2026-08-08T11:26:52.902483
+BikePoints_166,"Seville Street, Knightsbridge",51.501855,-0.159237,7,20,27,2026-08-08T11:26:52.902486
+BikePoints_167,"Eccleston Place, Victoria",51.49395,-0.147624,15,4,19,2026-08-08T11:26:52.902489
+BikePoints_168,"Argyll Road, Kensington",51.500401,-0.195455,7,11,19,2026-08-08T11:26:52.902492
+BikePoints_169,"Porchester Place, Paddington",51.514746,-0.165164,2,15,18,2026-08-08T11:26:52.902495
+BikePoints_170,"Hardwick Street, Clerkenwell",51.527842,-0.108068,15,14,30,2026-08-08T11:26:52.902497
+BikePoints_171,"Collingham Gardens, Earl's Court",51.491615,-0.186753,0,13,14,2026-08-08T11:26:52.902500
+BikePoints_172,"Sumner Place, South Kensington",51.491211,-0.173715,7,11,19,2026-08-08T11:26:52.902503
+BikePoints_173,"Waterloo Road, South Bank",51.50486,-0.113001,10,4,15,2026-08-08T11:26:52.902506
+BikePoints_175,"Worship Street, Shoreditch",51.521668,-0.079608,5,46,51,2026-08-08T11:26:52.902508
+BikePoints_176,"Gloucester Terrace, Bayswater",51.517919,-0.188098,15,8,23,2026-08-08T11:26:52.902511
+BikePoints_177,"Ashley Place, Victoria",51.49616,-0.140947,5,19,25,2026-08-08T11:26:52.902514
+BikePoints_178,"Warwick Square, Pimlico",51.489856,-0.141923,7,12,19,2026-08-08T11:26:52.902517
+BikePoints_180,"North Audley Street, Mayfair",51.512911,-0.153645,9,7,17,2026-08-08T11:26:52.902521
+BikePoints_181,"Belgrave Square, Belgravia",51.499412,-0.152317,3,18,21,2026-08-08T11:26:52.902524
+BikePoints_182,"Bell Street , Marylebone",51.522029,-0.165842,1,14,18,2026-08-08T11:26:52.902527
+BikePoints_183,"Riverlight North, Nine Elms",51.482362,-0.136123,11,12,24,2026-08-08T11:26:52.902530
+BikePoints_184,"Portland Place, Marylebone",51.520715,-0.145211,3,31,34,2026-08-08T11:26:52.902533
+BikePoints_185,"Alderney Street, Pimlico",51.488057,-0.140741,1,12,14,2026-08-08T11:26:52.902537
+BikePoints_186,"South Wharf Road, Paddington",51.517335,-0.17581,12,4,16,2026-08-08T11:26:52.902540
+BikePoints_187,"Queen's Gate (South), South Kensington",51.492479,-0.178433,0,25,25,2026-08-08T11:26:52.902543
+BikePoints_188,"Nutford Place, Marylebone",51.516517,-0.164393,3,15,18,2026-08-08T11:26:52.902546
+BikePoints_189,"Claremont Square, Angel",51.531666,-0.109914,4,11,18,2026-08-08T11:26:52.902549
+BikePoints_190,"Rampayne Street, Pimlico",51.489975,-0.132845,12,8,21,2026-08-08T11:26:52.902551
+BikePoints_191,"Hyde Park Corner, Hyde Park",51.503117,-0.15352,24,12,36,2026-08-08T11:26:52.902554
+BikePoints_192,"Wardour Street, Soho",51.512515,-0.133201,15,0,16,2026-08-08T11:26:52.902557
+BikePoints_193,"Bankside Mix, Bankside",51.505817,-0.100186,2,56,60,2026-08-08T11:26:52.902560
+BikePoints_194,"Hop Exchange, The Borough",51.504627,-0.091773,38,15,55,2026-08-08T11:26:52.902563
+BikePoints_195,"Milroy Walk, South Bank",51.507244,-0.106237,2,28,30,2026-08-08T11:26:52.902565
+BikePoints_196,"Union Street, The Borough",51.503688,-0.098497,1,16,17,2026-08-08T11:26:52.902568
+BikePoints_197,"Stamford Street, South Bank",51.505569,-0.111606,15,10,27,2026-08-08T11:26:52.902573
+BikePoints_199,"Great Tower Street, Monument",51.510484,-0.082989,5,19,24,2026-08-08T11:26:52.902575
+BikePoints_200,"LMU Commercial Road, Whitechapel",51.514924,-0.066078,5,7,14,2026-08-08T11:26:52.902580
+BikePoints_201,"Dorset Square, Marylebone",51.522596,-0.161113,1,11,16,2026-08-08T11:26:52.902582
+BikePoints_202,"Leman Street, Aldgate",51.512363,-0.069542,4,32,37,2026-08-08T11:26:52.902585
+BikePoints_203,"West Smithfield Rotunda, Farringdon",51.518218,-0.100791,1,13,15,2026-08-08T11:26:52.902588
+BikePoints_204,"Margery Street, Clerkenwell",51.526599,-0.112432,3,15,19,2026-08-08T11:26:52.902591
+BikePoints_206,"New Road 1 , Whitechapel",51.518154,-0.062697,14,18,36,2026-08-08T11:26:52.902594
+BikePoints_207,"Grosvenor Crescent, Belgravia",51.501352,-0.153194,1,16,18,2026-08-08T11:26:52.902596
+BikePoints_208,"Mallory Street, Marylebone",51.525051,-0.166304,4,14,20,2026-08-08T11:26:52.902599
+BikePoints_209,"Denyer Street, Knightsbridge",51.493583,-0.165101,4,25,30,2026-08-08T11:26:52.902602
+BikePoints_210,"Hinde Street, Marylebone",51.516814,-0.151926,5,15,21,2026-08-08T11:26:52.902604
+BikePoints_211,"Cadogan Place, Knightsbridge",51.494645,-0.158105,22,11,34,2026-08-08T11:26:52.902607
+BikePoints_212,"Campden Hill Road, Notting Hill",51.506584,-0.199004,9,6,17,2026-08-08T11:26:52.902610
+BikePoints_213,"Wellington Arch, Hyde Park",51.50274,-0.149569,6,29,36,2026-08-08T11:26:52.902613
+BikePoints_214,"Endsleigh Gardens, Euston",51.526838,-0.130504,24,7,32,2026-08-08T11:26:52.902615
+BikePoints_215,"Moorfields, Moorgate",51.519069,-0.088285,8,46,54,2026-08-08T11:26:52.902618
+BikePoints_216,"Old Brompton Road, South Kensington",51.490945,-0.18119,18,10,30,2026-08-08T11:26:52.902621
+BikePoints_217,"Wormwood Street, Liverpool Street",51.516154,-0.082422,5,9,16,2026-08-08T11:26:52.902624
+BikePoints_218,"St. Luke's Church, Chelsea",51.489716,-0.170194,4,16,20,2026-08-08T11:26:52.902627
+BikePoints_219,"Bramham Gardens, Earl's Court",51.490163,-0.190393,6,23,29,2026-08-08T11:26:52.902630
+BikePoints_220,"Chelsea Green, Chelsea",51.490664,-0.166485,4,11,15,2026-08-08T11:26:52.902632
+BikePoints_221,"Horseferry Road, Westminster",51.494816,-0.130458,7,8,16,2026-08-08T11:26:52.902637
+BikePoints_222,"Knightsbridge, Hyde Park",51.502757,-0.155349,24,18,43,2026-08-08T11:26:52.902640
+BikePoints_223,"Rodney Road , Walworth",51.491484,-0.09022,0,24,24,2026-08-08T11:26:52.902643
+BikePoints_224,"Queensway, Kensington Gardens",51.51031,-0.187402,0,16,17,2026-08-08T11:26:52.902645
+BikePoints_225,"Notting Hill Gate Station, Notting Hill",51.509353,-0.196422,5,25,30,2026-08-08T11:26:52.902648
+BikePoints_226,"Charles II Street, West End",51.508446,-0.131961,4,19,24,2026-08-08T11:26:52.902651
+BikePoints_227,"Great Percy Street, Clerkenwell",51.528915,-0.11548,5,17,23,2026-08-08T11:26:52.902654
+BikePoints_228,"St. James's Square, St. James's",51.507424,-0.134621,4,33,40,2026-08-08T11:26:52.902656
+BikePoints_229,"Whitehall Place, Strand",51.506543,-0.123179,9,36,46,2026-08-08T11:26:52.902659
+BikePoints_230,"Poured Lines, Bankside",51.506692,-0.103137,4,27,31,2026-08-08T11:26:52.902662
+BikePoints_231,"Queen's Gate (Central), South Kensington",51.493967,-0.178732,1,30,31,2026-08-08T11:26:52.902665
+BikePoints_232,"Carey Street, Holborn",51.51501,-0.112753,0,14,16,2026-08-08T11:26:52.902668
+BikePoints_233,"Pall Mall East, West End",51.50777,-0.130699,13,6,22,2026-08-08T11:26:52.902671
+BikePoints_234,"Liverpool Road (N1 Centre), Angel",51.534504,-0.106992,10,11,24,2026-08-08T11:26:52.902673
+BikePoints_235,"Kennington Road, Vauxhall",51.495718,-0.110889,17,19,36,2026-08-08T11:26:52.902676
+BikePoints_236,"Fashion Street, Whitechapel",51.51838,-0.073438,10,20,30,2026-08-08T11:26:52.902679
+BikePoints_237,"Dock Street, Wapping",51.509786,-0.068161,1,28,30,2026-08-08T11:26:52.902682
+BikePoints_238,"Frampton Street, Paddington",51.523353,-0.175116,8,23,32,2026-08-08T11:26:52.902686
+BikePoints_239,"Warren Street Station, Euston",51.524438,-0.138019,2,21,26,2026-08-08T11:26:52.902689
+BikePoints_240,"Colombo Street, Southwark",51.505459,-0.105692,2,12,14,2026-08-08T11:26:52.902693
+BikePoints_242,"Beaumont Street, Marylebone",51.522008,-0.151359,2,20,23,2026-08-08T11:26:52.902696
+BikePoints_243,"Gloucester Street, Pimlico",51.490962,-0.139625,5,19,25,2026-08-08T11:26:52.902699
+BikePoints_244,"Bucknall Street, Covent Garden",51.51615,-0.128417,12,1,18,2026-08-08T11:26:52.902702
+BikePoints_245,"Grosvenor Road, Pimlico",51.485357,-0.142207,3,26,29,2026-08-08T11:26:52.902705
+BikePoints_246,"Berry Street, Clerkenwell",51.522853,-0.099994,2,39,41,2026-08-08T11:26:52.902707
+BikePoints_247,"St. John's Wood Church, The Regent's Park",51.530529,-0.167515,12,36,50,2026-08-08T11:26:52.902710
+BikePoints_248,"Triangle Car Park, Hyde Park",51.506451,-0.170279,6,21,27,2026-08-08T11:26:52.902713
+BikePoints_249,"Harper Road, The Borough",51.498597,-0.096191,19,23,42,2026-08-08T11:26:52.902716
+BikePoints_250,"Royal Avenue 1, Chelsea",51.489932,-0.162727,3,7,10,2026-08-08T11:26:52.902719
+BikePoints_251,"Brushfield Street, Liverpool Street",51.518908,-0.079249,24,10,34,2026-08-08T11:26:52.902721
+BikePoints_253,"Shoreditch Park, Hoxton",51.534042,-0.086379,16,12,30,2026-08-08T11:26:52.902724
+BikePoints_254,"Chadwell Street, Angel",51.530515,-0.106408,1,13,18,2026-08-08T11:26:52.902727
+BikePoints_255,"Clifton Road, Maida Vale",51.525575,-0.179592,4,17,22,2026-08-08T11:26:52.902730
+BikePoints_256,"Houghton Street, Strand",51.51362,-0.116764,3,11,15,2026-08-08T11:26:52.902733
+BikePoints_257,"Westminster University, Marylebone",51.522481,-0.154907,2,14,16,2026-08-08T11:26:52.902736
+BikePoints_258,"Kensington Gore, Knightsbridge",51.501432,-0.178656,2,20,23,2026-08-08T11:26:52.902738
+BikePoints_259,"Bourne Street, Belgravia",51.490959,-0.153233,9,7,16,2026-08-08T11:26:52.902741
+BikePoints_260,"Broadwick Street, Soho",51.513684,-0.13558,4,12,18,2026-08-08T11:26:52.902744
+BikePoints_261,"Princes Square, Bayswater",51.513489,-0.191351,3,11,16,2026-08-08T11:26:52.902756
+BikePoints_262,"LSBU (Borough Road), Elephant & Castle",51.498744,-0.103132,9,26,35,2026-08-08T11:26:52.902761
+BikePoints_263,"St. Mary Axe, Aldgate",51.514225,-0.08066,6,13,21,2026-08-08T11:26:52.902764
+BikePoints_264,"Tysoe Street, Clerkenwell",51.526443,-0.109256,6,11,20,2026-08-08T11:26:52.902768
+BikePoints_265,"Southwick Street, Paddington",51.515953,-0.169249,7,9,17,2026-08-08T11:26:52.902771
+BikePoints_266,"Queen's Gate (North), Kensington",51.501026,-0.180246,1,40,41,2026-08-08T11:26:52.902774
+BikePoints_268,"Belgrave Road, Victoria",51.493204,-0.144132,8,20,29,2026-08-08T11:26:52.902777
+BikePoints_269,"Empire Square, The Borough",51.500823,-0.08974,19,27,46,2026-08-08T11:26:52.902779
+BikePoints_271,"London Zoo,  The Regent's Park",51.535836,-0.156285,11,20,32,2026-08-08T11:26:52.902782
+BikePoints_272,"Baylis Road, Waterloo",51.501444,-0.110699,2,19,22,2026-08-08T11:26:52.902785
+BikePoints_273,"Belvedere Road 1, South Bank",51.506133,-0.114686,8,30,38,2026-08-08T11:26:52.902788
+BikePoints_274,"Warwick Road, Olympia",51.496712,-0.205284,13,22,36,2026-08-08T11:26:52.902790
+BikePoints_275,"Barbican Centre, Barbican",51.520044,-0.092176,4,14,19,2026-08-08T11:26:52.902793
+BikePoints_276,"Lower Thames Street, Monument",51.509301,-0.084985,4,17,24,2026-08-08T11:26:52.902796
+BikePoints_277,"Kensington Church Street, Kensington",51.503157,-0.191496,2,14,17,2026-08-08T11:26:52.902799
+BikePoints_278,"Tooley Street, Bermondsey",51.503493,-0.07962,11,11,27,2026-08-08T11:26:52.902802
+BikePoints_279,"North Wharf Road, Paddington",51.518623,-0.176603,2,20,23,2026-08-08T11:26:52.902805
+BikePoints_280,"Royal Avenue 2, Chelsea",51.490083,-0.162418,6,4,10,2026-08-08T11:26:52.902827
+BikePoints_281,"Smith Square, Westminster",51.495805,-0.127575,5,12,18,2026-08-08T11:26:52.902831
+BikePoints_282,"Royal London Hospital, Whitechapel",51.518675,-0.06111,28,8,42,2026-08-08T11:26:52.902834
+BikePoints_283,"Kingsway, Covent Garden",51.514409,-0.118478,1,13,16,2026-08-08T11:26:52.902839
+BikePoints_284,"Lambeth North Station, Waterloo",51.49914,-0.112031,2,18,20,2026-08-08T11:26:52.902842
+BikePoints_286,"St. John's Wood Road, St. John's Wood",51.527294,-0.174653,17,18,35,2026-08-08T11:26:52.902845
+BikePoints_287,"Bedford Way, Bloomsbury",51.523673,-0.128377,2,21,23,2026-08-08T11:26:52.902847
+BikePoints_288,"Elizabeth Bridge, Victoria",51.492369,-0.147478,28,5,34,2026-08-08T11:26:52.902850
+BikePoints_289,"South Audley Street, Mayfair",51.50923,-0.151289,3,11,15,2026-08-08T11:26:52.902853
+BikePoints_290,"St Mary's Hospital, Paddington",51.518268,-0.171103,5,13,20,2026-08-08T11:26:52.902856
+BikePoints_291,"Claverton Street, Pimlico",51.484839,-0.138089,12,19,32,2026-08-08T11:26:52.902859
+BikePoints_292,"Montpelier Street, Knightsbridge",51.498884,-0.165471,13,2,16,2026-08-08T11:26:52.902862
+BikePoints_293,"Kensington Olympia Station, Olympia",51.498157,-0.209494,10,14,25,2026-08-08T11:26:52.902865
+BikePoints_294,"St. George's Square, Pimlico",51.488226,-0.135635,9,5,16,2026-08-08T11:26:52.902868
+BikePoints_295,"Swan Street, The Borough",51.500296,-0.092762,20,7,27,2026-08-08T11:26:52.902872
+BikePoints_296,"Knaresborough Place, Earl's Court",51.493631,-0.190603,7,11,18,2026-08-08T11:26:52.902875
+BikePoints_297,"Geraldine Street, Elephant & Castle",51.496127,-0.106,7,10,17,2026-08-08T11:26:52.902878
+BikePoints_298,"Curlew Street, Shad Thames",51.502279,-0.074189,0,20,21,2026-08-08T11:26:52.902881
+BikePoints_299,"Vincent Square, Westminster",51.493985,-0.136928,5,14,19,2026-08-08T11:26:52.902884
+BikePoints_300,"Serpentine Car Park, Hyde Park",51.505014,-0.17306,4,9,18,2026-08-08T11:26:52.902887
+BikePoints_301,"Marylebone Lane, Marylebone",51.514759,-0.148105,5,18,24,2026-08-08T11:26:52.902889
+BikePoints_302,"Putney Pier, Wandsworth",51.466907,-0.216573,21,7,28,2026-08-08T11:26:52.902892
+BikePoints_303,"Albert Gate, Hyde Park",51.502953,-0.158456,0,34,34,2026-08-08T11:26:52.902895
+BikePoints_306,"Rathbone Street, Fitzrovia",51.518162,-0.135025,0,14,16,2026-08-08T11:26:52.902899
+BikePoints_307,"Black Lion Gate, Kensington Gardens",51.509908,-0.187842,0,19,24,2026-08-08T11:26:52.902902
+BikePoints_308,"Long Lane , Bermondsey",51.499075,-0.085666,9,11,20,2026-08-08T11:26:52.902905
+BikePoints_309,"Embankment (Savoy), Strand",51.509631,-0.119047,4,35,41,2026-08-08T11:26:52.902908
+BikePoints_310,"Black Prince Road, Vauxhall",51.490867,-0.116911,8,11,19,2026-08-08T11:26:52.902911
+BikePoints_311,"Foley Street, Fitzrovia",51.519181,-0.140485,1,22,24,2026-08-08T11:26:52.902915
+BikePoints_312,"Grove End Road, St. John's Wood",51.530889,-0.17677,8,10,20,2026-08-08T11:26:52.902920
+BikePoints_313,"Wells Street, Fitzrovia",51.517344,-0.138072,13,25,38,2026-08-08T11:26:52.902926
+BikePoints_314,"Tyers Gate, Bermondsey",51.500889,-0.083159,5,30,36,2026-08-08T11:26:52.902928
+BikePoints_315,"The Tennis Courts, The Regent's Park",51.525367,-0.153463,11,3,16,2026-08-08T11:26:52.902931
+BikePoints_316,"Warwick Row, Westminster",51.497998,-0.14296,19,0,21,2026-08-08T11:26:52.902934
+BikePoints_317,"Dickens Square, Borough",51.496791,-0.093913,5,27,32,2026-08-08T11:26:52.902936
+BikePoints_318,"Sackville Street, Mayfair",51.510048,-0.138846,7,8,18,2026-08-08T11:26:52.902939
+BikePoints_319,"Baldwin Street, St. Luke's",51.527025,-0.088542,4,17,21,2026-08-08T11:26:52.902942
+BikePoints_320,"Queen Mother Sports Centre, Victoria",51.493573,-0.139956,0,25,26,2026-08-08T11:26:52.902945
+BikePoints_321,"Bermondsey Street, Bermondsey",51.497855,-0.081608,19,3,24,2026-08-08T11:26:52.902948
+BikePoints_322,"Palissy Street, Shoreditch",51.526293,-0.073955,0,23,26,2026-08-08T11:26:52.902950
+BikePoints_323,"Clifton Street, Shoreditch",51.523196,-0.083067,1,23,24,2026-08-08T11:26:52.902953
+BikePoints_324,"Ontario Street, Elephant & Castle",51.49652,-0.101384,12,3,15,2026-08-08T11:26:52.902956
+BikePoints_326,"Graham Street, Angel",51.532661,-0.099981,21,3,26,2026-08-08T11:26:52.902960
+BikePoints_327,"Westbourne Green, Westbourne",51.522168,-0.192814,7,11,21,2026-08-08T11:26:52.902963
+BikePoints_328,"New North Road 2, Hoxton",51.53114,-0.086016,11,11,22,2026-08-08T11:26:52.902966
+BikePoints_329,"Prince Albert Road, The Regent's Park",51.535892,-0.160854,14,7,24,2026-08-08T11:26:52.902969
+BikePoints_330,"Eastbourne Mews, Paddington",51.516417,-0.179135,24,6,34,2026-08-08T11:26:52.902971
+BikePoints_331,"Bunhill Row, Moorgate",51.520858,-0.089887,11,18,30,2026-08-08T11:26:52.902974
+BikePoints_332,"Nevern Place, Earl's Court",51.493343,-0.194757,5,15,20,2026-08-08T11:26:52.902977
+BikePoints_333,"Palace Gardens Terrace, Notting Hill",51.508605,-0.193764,17,17,37,2026-08-08T11:26:52.902980
+BikePoints_334,"Agar Grove, Camden Town",51.542891,-0.132253,8,6,18,2026-08-08T11:26:52.902984
+BikePoints_335,"Tavistock Street, Covent Garden",51.511968,-0.120718,10,22,33,2026-08-08T11:26:52.902987
+BikePoints_336,"Concert Hall Approach, South Bank",51.504841,-0.115153,11,18,30,2026-08-08T11:26:52.902990
+BikePoints_337,"Pembridge Villas, Notting Hill",51.511084,-0.197524,13,1,16,2026-08-08T11:26:52.902992
+BikePoints_338,"Wellington Street , Strand",51.511756,-0.119643,9,14,24,2026-08-08T11:26:52.902995
+BikePoints_340,"Bank of England Museum, Bank",51.514441,-0.087587,3,13,16,2026-08-08T11:26:52.902998
+BikePoints_341,"Craven Street, Strand",51.508103,-0.126021,19,3,23,2026-08-08T11:26:52.903001
+BikePoints_344,"Goswell Road (City Uni), Finsbury",51.528246,-0.101026,4,11,16,2026-08-08T11:26:52.903004
+BikePoints_345,"Flood Street, Chelsea",51.488023,-0.166878,10,21,33,2026-08-08T11:26:52.903006
+BikePoints_348,"Grosvenor Square, Mayfair",51.51217,-0.150481,8,8,17,2026-08-08T11:26:52.903009
+BikePoints_349,"St. George Street, Mayfair",51.51196,-0.142783,7,9,18,2026-08-08T11:26:52.903012
+BikePoints_350,"Queen's Gate, Kensington Gardens",51.501715,-0.179854,2,17,21,2026-08-08T11:26:52.903015
+BikePoints_351,"Macclesfield Rd, St Lukes",51.529423,-0.097122,1,23,28,2026-08-08T11:26:52.903019
+BikePoints_352,"Vauxhall Street, Vauxhall",51.486965,-0.116625,10,8,19,2026-08-08T11:26:52.903022
+BikePoints_353,"Greycoat Street , Westminster",51.494591,-0.134234,3,12,17,2026-08-08T11:26:52.903026
+BikePoints_354,"Northumberland Avenue, Strand",51.506767,-0.123702,6,31,37,2026-08-08T11:26:52.903029
+BikePoints_355,"Clapham Common Station, Clapham Common",51.461388,-0.139221,12,3,21,2026-08-08T11:26:52.903032
+BikePoints_356,"South Kensington Station, South Kensington",51.494412,-0.173881,9,6,15,2026-08-08T11:26:52.903035
+BikePoints_357,"Howland Street, Fitzrovia",51.520994,-0.139016,2,27,30,2026-08-08T11:26:52.903038
+BikePoints_358,"High Holborn , Covent Garden",51.516398,-0.124257,4,14,20,2026-08-08T11:26:52.903040
+BikePoints_359,"Butler Place, Westminster",51.497829,-0.13544,6,10,18,2026-08-08T11:26:52.903043
+BikePoints_360,"Howick Place, Westminster",51.496753,-0.138733,9,15,27,2026-08-08T11:26:52.903046
+BikePoints_361,"Waterloo Station 2, Waterloo",51.503919,-0.113426,9,44,55,2026-08-08T11:26:52.903049
+BikePoints_362,"Royal College Street, Camden Town",51.536264,-0.133952,29,28,57,2026-08-08T11:26:52.903052
+BikePoints_363,"Lord's, St. John's Wood",51.529121,-0.171185,15,9,24,2026-08-08T11:26:52.903054
+BikePoints_364,"Store Street, Bloomsbury",51.519572,-0.13214,5,23,32,2026-08-08T11:26:52.903057
+BikePoints_365,"City Road, Angel",51.530344,-0.100168,26,21,47,2026-08-08T11:26:52.903060
+BikePoints_367,"Harrowby Street, Marylebone",51.517372,-0.164207,2,14,16,2026-08-08T11:26:52.903063
+BikePoints_368,"Lowndes Square, Knightsbridge",51.50058,-0.158837,9,13,23,2026-08-08T11:26:52.903066
+BikePoints_370,"Paddington Green, Paddington",51.520205,-0.174593,3,17,20,2026-08-08T11:26:52.903068
+BikePoints_371,"Brockwell Lido, Brixton",51.453118,-0.104955,25,2,30,2026-08-08T11:26:52.903071
+BikePoints_372,"Sardinia Street, Holborn",51.515208,-0.117863,3,20,24,2026-08-08T11:26:52.903076
+BikePoints_373,"Prince Consort Road, Knightsbridge",51.499806,-0.176415,4,14,18,2026-08-08T11:26:52.903078
+BikePoints_374,"Waterloo Station 1, Waterloo",51.504027,-0.113864,33,2,36,2026-08-08T11:26:52.903081
+BikePoints_375,"Kensington Town Hall, Kensington",51.501945,-0.194392,7,9,18,2026-08-08T11:26:52.903084
+BikePoints_376,"Millbank Tower, Pimlico",51.491884,-0.125674,11,10,24,2026-08-08T11:26:52.903087
+BikePoints_377,"Waterloo Bridge, South Bank",51.505354,-0.113656,4,10,15,2026-08-08T11:26:52.903090
+BikePoints_378,"Natural History Museum, South Kensington",51.495592,-0.179077,12,29,42,2026-08-08T11:26:52.903093
+BikePoints_379,"Turquoise Island, Notting Hill",51.514311,-0.200838,5,15,21,2026-08-08T11:26:52.903095
+BikePoints_380,"Stanhope Gate, Mayfair",51.506864,-0.150666,2,18,21,2026-08-08T11:26:52.903098
+BikePoints_381,"Charlotte Street, Fitzrovia",51.51953,-0.135777,1,13,14,2026-08-08T11:26:52.903101
+BikePoints_382,"Farm Street, Mayfair",51.509351,-0.147449,1,14,15,2026-08-08T11:26:52.903104
+BikePoints_383,"Frith Street, Soho",51.513103,-0.131213,3,12,18,2026-08-08T11:26:52.903107
+BikePoints_384,"Marloes Road, Kensington",51.496481,-0.192404,6,9,15,2026-08-08T11:26:52.903109
+BikePoints_386,"Moor Street, Soho",51.513527,-0.13011,11,4,16,2026-08-08T11:26:52.903112
+BikePoints_387,"Fire Brigade Pier, Vauxhall",51.493699,-0.121394,4,26,30,2026-08-08T11:26:52.903115
+BikePoints_388,"Southampton Street, Strand",51.510701,-0.121723,4,9,14,2026-08-08T11:26:52.903118
+BikePoints_389,"Upper Grosvenor Street, Mayfair",51.51013,-0.155757,0,18,18,2026-08-08T11:26:52.903121
+BikePoints_390,"Buxton Street 1, Shoreditch",51.521776,-0.068856,6,35,41,2026-08-08T11:26:52.903124
+BikePoints_391,"Clifford Street, Mayfair",51.510662,-0.142345,1,15,17,2026-08-08T11:26:52.903126
+BikePoints_392,"Imperial College, Knightsbridge",51.499428,-0.179702,7,26,33,2026-08-08T11:26:52.903129
+BikePoints_393,"Snow Hill, Farringdon",51.517334,-0.103604,0,15,15,2026-08-08T11:26:52.903137
+BikePoints_394,"Aberdeen Place, St. John's Wood",51.524826,-0.176268,3,13,18,2026-08-08T11:26:52.903140
+BikePoints_395,"Cadogan Gardens, Chelsea",51.492462,-0.159919,11,4,15,2026-08-08T11:26:52.903143
+BikePoints_396,"Shouldham Street, Marylebone",51.51809,-0.163609,3,13,16,2026-08-08T11:26:52.903145
+BikePoints_397,"Devonshire Terrace, Bayswater",51.51348,-0.17977,3,12,16,2026-08-08T11:26:52.903148
+BikePoints_398,"Holland Park, Kensington",51.502319,-0.200742,9,19,30,2026-08-08T11:26:52.903151
+BikePoints_399,"Brick Lane Market, Shoreditch",51.522617,-0.071653,2,20,24,2026-08-08T11:26:52.903154
+BikePoints_400,"George Street, Marylebone",51.517703,-0.154106,3,23,27,2026-08-08T11:26:52.903157
+BikePoints_401,"Columbia Road, Shoreditch",51.528187,-0.075375,1,22,24,2026-08-08T11:26:52.903159
+BikePoints_402,"Penfold Street, Marylebone",51.522892,-0.171681,12,2,15,2026-08-08T11:26:52.903162
+BikePoints_403,"George Place Mews, Marylebone",51.516892,-0.158249,1,13,16,2026-08-08T11:26:52.903165
+BikePoints_404,"Palace Gate, Kensington Gardens",51.502042,-0.1844,2,8,13,2026-08-08T11:26:52.903168
+BikePoints_405,"Gloucester Road Station, South Kensington",51.494185,-0.18267,7,8,15,2026-08-08T11:26:52.903170
+BikePoints_408,"Sun Street, Liverpool Street",51.520009,-0.083935,6,17,24,2026-08-08T11:26:52.903175
+BikePoints_409,"Strata, Elephant & Castle",51.493146,-0.099828,30,8,41,2026-08-08T11:26:52.903179
+BikePoints_410,"Orchard Place, Blackwall Tunnel",51.510212,0.004979,11,13,24,2026-08-08T11:26:52.903182
+BikePoints_411,"Rotherhithe Roundabout, Rotherhithe",51.499169,-0.055846,9,10,19,2026-08-08T11:26:52.903185
+BikePoints_412,"Cleaver Street, Kennington",51.488105,-0.110121,5,11,17,2026-08-08T11:26:52.903188
+BikePoints_419,"Chelsea Bridge, Pimlico",51.485821,-0.149004,9,4,15,2026-08-08T11:26:52.903190
+BikePoints_423,"Eaton Square (South), Belgravia",51.494561,-0.153933,11,20,31,2026-08-08T11:26:52.903195
+BikePoints_424,"Ebury Bridge, Pimlico",51.490491,-0.149186,2,26,29,2026-08-08T11:26:52.903198
+BikePoints_426,"Vincent Street, Pimlico",51.493072,-0.129925,6,11,17,2026-08-08T11:26:52.903200
+BikePoints_427,"Cheapside, Bank",51.51397,-0.09294,9,33,43,2026-08-08T11:26:52.903203
+BikePoints_428,"Exhibition Road, Knightsbridge",51.499917,-0.174554,13,5,20,2026-08-08T11:26:52.903206
+BikePoints_430,"South Parade, Chelsea",51.48902,-0.17524,5,12,18,2026-08-08T11:26:52.903209
+BikePoints_431,"Crinan Street, King's Cross",51.534474,-0.122203,5,15,20,2026-08-08T11:26:52.903212
+BikePoints_432,"Exhibition Road Museums 1, South Kensington",51.496468,-0.173796,11,2,13,2026-08-08T11:26:52.903214
+BikePoints_433,"Wren Street, Holborn",51.524564,-0.116279,0,29,33,2026-08-08T11:26:52.903217
+BikePoints_435,"Kennington Station, Kennington",51.488852,-0.105593,8,13,23,2026-08-08T11:26:52.903220
+BikePoints_436,"Red Lion Street, Holborn",51.51824,-0.11655,7,27,36,2026-08-08T11:26:52.903223
+BikePoints_437,"Vauxhall Walk, Vauxhall",51.488124,-0.120903,25,0,27,2026-08-08T11:26:52.903226
+BikePoints_439,"Killick Street, King's Cross",51.5338,-0.118677,15,6,22,2026-08-08T11:26:52.903229
+BikePoints_440,"Kennington Oval, Oval",51.483145,-0.113134,23,8,33,2026-08-08T11:26:52.903231
+BikePoints_441,"Sail Street, Vauxhall",51.495656,-0.114605,5,19,24,2026-08-08T11:26:52.903234
+BikePoints_442,"Walmer Road, Avondale",51.510101,-0.211358,4,17,24,2026-08-08T11:26:52.903237
+BikePoints_443,"Philpot Street, Whitechapel",51.515256,-0.058641,15,12,30,2026-08-08T11:26:52.903240
+BikePoints_444,"Bethnal Green Garden, Bethnal Green",51.52568,-0.055312,19,4,24,2026-08-08T11:26:52.903243
+BikePoints_445,"Cheshire Street, Bethnal Green",51.52388,-0.065076,8,20,28,2026-08-08T11:26:52.903245
+BikePoints_446,"York Hall, Bethnal Green",51.528936,-0.055894,1,26,27,2026-08-08T11:26:52.903248
+BikePoints_447,"Jubilee Crescent, Cubitt Town",51.493381,-0.007542,19,34,54,2026-08-08T11:26:52.903253
+BikePoints_448,"Fisherman's Walk West, Canary Wharf",51.50623,-0.02296,18,16,36,2026-08-08T11:26:52.903255
+BikePoints_449,"Shadwell Station, Shadwell",51.511088,-0.057159,4,29,35,2026-08-08T11:26:52.903258
+BikePoints_450,"Jubilee Street, Stepney",51.515975,-0.053177,14,13,28,2026-08-08T11:26:52.903261
+BikePoints_451,"Hermitage Court, Wapping",51.504719,-0.063531,2,13,16,2026-08-08T11:26:52.903264
+BikePoints_452,"St. Katharine's Way, Tower",51.505697,-0.070542,2,20,24,2026-08-08T11:26:52.903267
+BikePoints_453,"Garnet Street, Shadwell",51.508447,-0.055167,8,16,24,2026-08-08T11:26:52.903270
+BikePoints_454,"Napier Avenue, Millwall",51.487679,-0.021582,8,11,20,2026-08-08T11:26:52.903272
+BikePoints_455,"East Ferry Road, Cubitt Town",51.49447,-0.014409,1,15,17,2026-08-08T11:26:52.903275
+BikePoints_456,"Albert Street, Camden Town",51.537706,-0.144801,14,11,26,2026-08-08T11:26:52.903278
+BikePoints_457,"Castlehaven Road, Camden Town",51.542138,-0.145393,9,20,29,2026-08-08T11:26:52.903281
+BikePoints_458,"Wapping Lane, Wapping",51.504749,-0.057544,12,13,28,2026-08-08T11:26:52.903284
+BikePoints_459,"Gunmakers Lane, Old Ford",51.535179,-0.03338,8,9,17,2026-08-08T11:26:52.903287
+BikePoints_461,"Aston Street, Stepney",51.516,-0.038775,22,3,26,2026-08-08T11:26:52.903289
+BikePoints_462,"Bonny Street, Camden Town",51.541603,-0.138853,19,23,45,2026-08-08T11:26:52.903292
+BikePoints_463,"Thurtle Road, Haggerston",51.534776,-0.071881,16,6,22,2026-08-08T11:26:52.903295
+BikePoints_464,"St. Mary & St. Michael Church, Stepney",51.51417,-0.052099,13,11,25,2026-08-08T11:26:52.903298
+BikePoints_465,"Pitfield Street North,Hoxton",51.53558,-0.08249,19,7,28,2026-08-08T11:26:52.903301
+BikePoints_466,"Whiston Road, Haggerston",51.534464,-0.076341,9,11,21,2026-08-08T11:26:52.903303
+BikePoints_467,"Southern Grove, Bow",51.523538,-0.030556,9,7,17,2026-08-08T11:26:52.903308
+BikePoints_468,"Cantrell Road, Bow",51.521564,-0.022694,22,1,24,2026-08-08T11:26:52.903311
+BikePoints_469,"Lindfield Street, Poplar",51.513757,-0.020467,31,12,44,2026-08-08T11:26:52.903314
+BikePoints_470,"Mostyn Grove, Bow",51.530535,-0.025492,19,23,46,2026-08-08T11:26:52.903316
+BikePoints_471,"Hewison Street, Old Ford",51.533283,-0.028155,7,11,19,2026-08-08T11:26:52.903319
+BikePoints_472,"Malmesbury Road, Bow",51.529452,-0.027616,12,9,21,2026-08-08T11:26:52.903322
+BikePoints_473,"Millharbour, Millwall",51.496137,-0.019355,7,12,19,2026-08-08T11:26:52.903325
+BikePoints_474,"Gascoyne Road, Victoria Park",51.541515,-0.038557,4,13,20,2026-08-08T11:26:52.903329
+BikePoints_475,"Lightermans Road, Millwall",51.499041,-0.020157,27,1,31,2026-08-08T11:26:52.903332
+BikePoints_476,"Stebondale Street, Cubitt Town",51.489096,-0.009205,9,20,29,2026-08-08T11:26:52.903335
+BikePoints_477,"Spindrift Avenue, Millwall",51.49109,-0.018716,16,17,36,2026-08-08T11:26:52.903338
+BikePoints_478,"Stepney Green Station, Stepney",51.521889,-0.04667,14,5,21,2026-08-08T11:26:52.903341
+BikePoints_479,"Pott Street, Bethnal Green",51.527152,-0.058005,12,7,20,2026-08-08T11:26:52.903343
+BikePoints_480,"Flamborough Street, Limehouse",51.512871,-0.038986,23,0,25,2026-08-08T11:26:52.903346
+BikePoints_481,"Saunders Ness Road, Cubitt Town",51.487129,-0.009001,33,0,35,2026-08-08T11:26:52.903349
+BikePoints_482,"Exhibition Road Museums 2, South Kensington",51.495947,-0.173689,7,7,14,2026-08-08T11:26:52.903352
+BikePoints_483,"Albert Gardens, Stepney",51.51328,-0.047784,12,18,33,2026-08-08T11:26:52.903355
+BikePoints_484,"Bromley High Street, Bow",51.528828,-0.013258,17,4,24,2026-08-08T11:26:52.903358
+BikePoints_485,"Old Ford Road, Bethnal Green",51.531127,-0.048017,4,19,24,2026-08-08T11:26:52.903361
+BikePoints_486,"Granby Street, Shoreditch",51.525645,-0.069543,9,25,37,2026-08-08T11:26:52.903365
+BikePoints_487,"Canton Street, Poplar",51.511811,-0.025626,6,16,23,2026-08-08T11:26:52.903369
+BikePoints_488,"Reardon Street, Wapping",51.506946,-0.058681,7,14,22,2026-08-08T11:26:52.903372
+BikePoints_489,"Christian Street, Whitechapel",51.513074,-0.064094,7,26,34,2026-08-08T11:26:52.903375
+BikePoints_490,"Pennington Street, Wapping",51.508622,-0.065006,6,38,45,2026-08-08T11:26:52.903378
+BikePoints_491,"Queen Mary's, Mile End",51.522507,-0.041378,18,24,45,2026-08-08T11:26:52.903381
+BikePoints_494,"South Quay East, Canary Wharf",51.50196,-0.016251,20,13,36,2026-08-08T11:26:52.903383
+BikePoints_495,"Bow Church Station, Bow",51.528169,-0.018703,13,24,39,2026-08-08T11:26:52.903386
+BikePoints_496,"Devons Road, Bow",51.52512,-0.015578,25,14,39,2026-08-08T11:26:52.903389
+BikePoints_497,"Merchant Street, Bow",51.526578,-0.027581,6,18,27,2026-08-08T11:26:52.903392
+BikePoints_498,"Bow Road Station, Bow",51.527058,-0.025296,20,18,42,2026-08-08T11:26:52.903395
+BikePoints_499,"Furze Green, Bow",51.519265,-0.021345,22,13,36,2026-08-08T11:26:52.903397
+BikePoints_500,"Ansell House, Stepney",51.520019,-0.05438,6,35,41,2026-08-08T11:26:52.903400
+BikePoints_501,"Cephas Street, Bethnal Green",51.522561,-0.054883,8,15,24,2026-08-08T11:26:52.903403
+BikePoints_502,"Bonner Gate, Victoria Park",51.53341,-0.049591,17,1,21,2026-08-08T11:26:52.903406
+BikePoints_503,"Cleveland Way, Stepney",51.520893,-0.051394,21,8,36,2026-08-08T11:26:52.903408
+BikePoints_504,"St. John's Park, Cubitt Town",51.496454,-0.009506,16,12,30,2026-08-08T11:26:52.903411
+BikePoints_505,"Ackroyd Drive, Bow",51.520398,-0.026768,4,23,29,2026-08-08T11:26:52.903414
+BikePoints_506,"Bell Lane, Liverpool Street",51.517475,-0.075855,4,18,23,2026-08-08T11:26:52.903417
+BikePoints_507,"Clarkson Street, Bethnal Green",51.528692,-0.059091,6,23,31,2026-08-08T11:26:52.903420
+BikePoints_508,"Fournier Street, Whitechapel",51.519362,-0.074431,8,10,18,2026-08-08T11:26:52.903424
+BikePoints_509,"Fore Street Avenue, Guildhall",51.517842,-0.090075,1,18,19,2026-08-08T11:26:52.903427
+BikePoints_510,"Westferry DLR, Limehouse",51.509303,-0.025996,20,16,41,2026-08-08T11:26:52.903430
+BikePoints_511,"Sutton Street, Shadwell",51.511066,-0.053558,15,13,33,2026-08-08T11:26:52.903433
+BikePoints_513,"Watney Market, Stepney",51.514222,-0.055656,1,46,51,2026-08-08T11:26:52.903436
+BikePoints_514,"Portman Square, Marylebone",51.516204,-0.155525,3,14,17,2026-08-08T11:26:52.903438
+BikePoints_515,"Russell Gardens, Olympia",51.500088,-0.211316,7,15,24,2026-08-08T11:26:52.903441
+BikePoints_516,"Chrisp Street Market, Poplar",51.5112,-0.014438,13,2,18,2026-08-08T11:26:52.903444
+BikePoints_517,"Ford Road, Old Ford",51.532513,-0.033085,4,8,18,2026-08-08T11:26:52.903447
+BikePoints_518,"Antill Road, Mile End",51.528224,-0.037471,13,16,30,2026-08-08T11:26:52.903450
+BikePoints_519,"Teviot Street, Poplar",51.518811,-0.011662,24,7,33,2026-08-08T11:26:52.903452
+BikePoints_520,"Bancroft Road, Bethnal Green",51.526041,-0.047218,3,15,21,2026-08-08T11:26:52.903455
+BikePoints_521,"Driffield Road, Old Ford",51.534137,-0.037366,11,4,19,2026-08-08T11:26:52.903458
+BikePoints_522,"Clinton Road, Mile End",51.525941,-0.036017,16,18,36,2026-08-08T11:26:52.903461
+BikePoints_523,"Langdon Park, Poplar",51.51549,-0.013475,7,12,24,2026-08-08T11:26:52.903464
+BikePoints_524,"Lancaster Gate , Bayswater",51.511654,-0.179668,15,20,38,2026-08-08T11:26:52.903467
+BikePoints_525,"Blythe Road, Olympia",51.496927,-0.2135,19,3,24,2026-08-08T11:26:52.903470
+BikePoints_526,"Lancaster Drive, Blackwall",51.503143,-0.008428,12,14,27,2026-08-08T11:26:52.903473
+BikePoints_527,"Hansard Mews, Holland Park",51.503802,-0.215808,5,14,20,2026-08-08T11:26:52.903476
+BikePoints_528,"Clarges Street, Mayfair",51.507326,-0.145827,1,15,16,2026-08-08T11:26:52.903479
+BikePoints_529,"Manresa Road, Chelsea",51.486892,-0.170983,9,9,18,2026-08-08T11:26:52.903485
+BikePoints_530,"Newby Place, Poplar",51.508896,-0.012413,16,1,18,2026-08-08T11:26:52.903488
+BikePoints_531,"Twig Folly Bridge, Mile End",51.530326,-0.042744,9,10,21,2026-08-08T11:26:52.903491
+BikePoints_532,"Jubilee Plaza, Canary Wharf",51.5034,-0.020242,6,57,63,2026-08-08T11:26:52.903494
+BikePoints_533,"Wellington Row, Bethnal Green",51.528222,-0.069743,2,31,33,2026-08-08T11:26:52.903496
+BikePoints_534,"Goldsmith's Row, Haggerston",51.531864,-0.066035,2,22,27,2026-08-08T11:26:52.903499
+BikePoints_536,"Queensbridge Road, Haggerston",51.53385,-0.06992,3,32,35,2026-08-08T11:26:52.903502
+BikePoints_537,"Old Montague Street, Whitechapel",51.51793,-0.067937,10,6,18,2026-08-08T11:26:52.903505
+BikePoints_538,"Naval Row, Blackwall",51.508981,-0.00699,18,1,21,2026-08-08T11:26:52.903508
+BikePoints_539,"Hoxton Station, Hoxton",51.531091,-0.075901,10,10,22,2026-08-08T11:26:52.903510
+BikePoints_541,"Green Park Station, Mayfair",51.506613,-0.142844,0,27,28,2026-08-08T11:26:52.903513
+BikePoints_542,"Salmon Lane, Limehouse",51.514115,-0.033828,14,16,33,2026-08-08T11:26:52.903516
+BikePoints_543,"Lansdowne Walk, Ladbroke Grove",51.509591,-0.204666,2,18,21,2026-08-08T11:26:52.903519
+BikePoints_544,"Percival Street, Finsbury",51.526153,-0.102208,2,19,22,2026-08-08T11:26:52.903522
+BikePoints_545,"Arlington Road, Camden Town",51.539957,-0.145246,2,20,24,2026-08-08T11:26:52.903525
+BikePoints_546,"New Fetter Lane, Holborn",51.517428,-0.107987,0,21,21,2026-08-08T11:26:52.903527
+BikePoints_547,"East India DLR, Blackwall",51.509474,-0.002275,23,26,51,2026-08-08T11:26:52.903530
+BikePoints_548,"Westminster Bridge Road, Elephant & Castle",51.498386,-0.107913,7,18,26,2026-08-08T11:26:52.903533
+BikePoints_549,"Gaywood  Street, Elephant & Castle",51.49605,-0.104193,8,34,45,2026-08-08T11:26:52.903536
+BikePoints_550,"Harford Street, Mile End",51.521564,-0.039264,5,17,23,2026-08-08T11:26:52.903540
+BikePoints_551,"Import Dock, Canary Wharf",51.505772,-0.01646,19,19,39,2026-08-08T11:26:52.903543
+BikePoints_552,"Watney Street, Shadwell",51.511542,-0.056667,4,21,27,2026-08-08T11:26:52.903546
+BikePoints_553,"Regent's Row , Haggerston",51.535678,-0.062546,18,3,24,2026-08-08T11:26:52.903548
+BikePoints_554,"Aberfeldy Street, Poplar",51.513548,-0.005659,12,3,16,2026-08-08T11:26:52.903553
+BikePoints_556,"Heron Quays DLR, Canary Wharf",51.502661,-0.021596,1,25,27,2026-08-08T11:26:52.903556
+BikePoints_557,"King Edward Street, St Pauls",51.51601,-0.0985,3,17,20,2026-08-08T11:26:52.903558
+BikePoints_558,"Page Street, Westminster",51.493978,-0.127554,3,18,24,2026-08-08T11:26:52.903561
+BikePoints_559,"Abbotsbury Road, Holland Park",51.501391,-0.205991,14,10,24,2026-08-08T11:26:52.903564
+BikePoints_560,"Ladbroke Grove Central, Ladbroke Grove",51.511624,-0.205921,2,19,21,2026-08-08T11:26:52.903567
+BikePoints_561,"Rectory Square, Stepney",51.518369,-0.043371,9,12,22,2026-08-08T11:26:52.903570
+BikePoints_562,"Bury Place, Holborn",51.51742,-0.123189,3,18,21,2026-08-08T11:26:52.903572
+BikePoints_563,"Preston's Road, Cubitt Town",51.499286,-0.009152,15,8,26,2026-08-08T11:26:52.903575
+BikePoints_564,"Somerset House, Strand",51.509943,-0.117619,7,33,41,2026-08-08T11:26:52.903578
+BikePoints_565,"Selby Street, Whitechapel",51.521905,-0.063386,16,0,17,2026-08-08T11:26:52.903581
+BikePoints_568,"Bishop's Bridge Road West, Bayswater",51.51616,-0.18697,9,9,18,2026-08-08T11:26:52.903584
+BikePoints_569,"Pitfield Street Central, Hoxton",51.53213,-0.08299,26,3,30,2026-08-08T11:26:52.903586
+BikePoints_570,"Upper Bank Street, Canary Wharf",51.503083,-0.017676,14,20,36,2026-08-08T11:26:52.903589
+BikePoints_571,"Westfield Southern Terrace ,Shepherd's Bush",51.506256,-0.218337,4,23,29,2026-08-08T11:26:52.903592
+BikePoints_572,"Greenland Road, Camden Town",51.539099,-0.141728,25,7,36,2026-08-08T11:26:52.903595
+BikePoints_573,"Limerston Street, West Chelsea",51.485587,-0.18119,4,9,18,2026-08-08T11:26:52.903599
+BikePoints_574,"Eagle Wharf Road, Hoxton",51.53356,-0.09315,32,13,45,2026-08-08T11:26:52.903602
+BikePoints_576,"Alpha Grove, Millwall",51.497304,-0.022793,3,16,23,2026-08-08T11:26:52.903605
+BikePoints_577,"Globe Town Market, Bethnal Green",51.528869,-0.047548,11,6,20,2026-08-08T11:26:52.903608
+BikePoints_578,"Hollybush Gardens, Bethnal Green",51.527607,-0.057133,7,25,32,2026-08-08T11:26:52.903610
+BikePoints_579,"Queen Street 2, Bank",51.511246,-0.093051,14,20,36,2026-08-08T11:26:52.903613
+BikePoints_580,"Doddington Grove, Kennington",51.486929,-0.102996,15,16,36,2026-08-08T11:26:52.903616
+BikePoints_581,"New Cavendish Street, Marylebone",51.519167,-0.147983,7,9,18,2026-08-08T11:26:52.903619
+BikePoints_583,"Abingdon Green, Westminster",51.49764,-0.125972,7,11,20,2026-08-08T11:26:52.903622
+BikePoints_584,"Ilchester Gardens, Bayswater",51.51244,-0.19096,5,15,21,2026-08-08T11:26:52.903624
+BikePoints_586,"Mudchute DLR, Cubitt Town",51.490645,-0.014582,27,2,31,2026-08-08T11:26:52.903627
+BikePoints_587,"Monument Street, Monument",51.50964,-0.08497,8,12,22,2026-08-08T11:26:52.903631
+BikePoints_589,"Drayton Gardens, West Chelsea",51.487196,-0.179369,2,15,18,2026-08-08T11:26:52.903634
+BikePoints_590,"Greenberry Street, St.John's Wood",51.53256,-0.16862,8,15,26,2026-08-08T11:26:52.903637
+BikePoints_592,"Bishop's Bridge Road East, Bayswater",51.5171,-0.18377,10,6,20,2026-08-08T11:26:52.903640
+BikePoints_593,"Northdown Street, King's Cross",51.531066,-0.11934,1,18,21,2026-08-08T11:26:52.903643
+BikePoints_594,"Kingsway Southbound, Strand",51.513875,-0.117774,6,27,33,2026-08-08T11:26:52.903645
+BikePoints_595,"Hammersmith Road, Hammersmith",51.493267,-0.21985,0,20,22,2026-08-08T11:26:52.903648
+BikePoints_596,"Parson's Green , Parson's Green",51.472817,-0.199783,9,12,21,2026-08-08T11:26:52.903651
+BikePoints_597,"Fulham Park Road, Fulham",51.473471,-0.20782,6,21,27,2026-08-08T11:26:52.903655
+BikePoints_598,"Southerton Road, Hammersmith",51.494499,-0.228188,14,23,38,2026-08-08T11:26:52.903658
+BikePoints_599,"Manbre Road, Hammersmith",51.485743,-0.223616,4,24,28,2026-08-08T11:26:52.903661
+BikePoints_600,"South Lambeth Road, Vauxhall",51.481747,-0.124642,17,3,21,2026-08-08T11:26:52.903664
+BikePoints_602,"Union Grove, Wandsworth Road",51.472993,-0.133972,36,8,45,2026-08-08T11:26:52.903667
+BikePoints_603,"Caldwell Street, Stockwell",51.477839,-0.116493,36,7,44,2026-08-08T11:26:52.903670
+BikePoints_604,"St Martins Close, Camden Town",51.538792,-0.138535,3,15,18,2026-08-08T11:26:52.903672
+BikePoints_605,"Seymour Place, Marylebone",51.520331,-0.163667,3,26,29,2026-08-08T11:26:52.903675
+BikePoints_606,"Addison Road, Holland Park",51.504199,-0.210941,8,16,26,2026-08-08T11:26:52.903678
+BikePoints_607,"Putney Bridge Station, Fulham",51.468814,-0.210279,5,15,21,2026-08-08T11:26:52.903681
+BikePoints_608,"Colet Gardens, Hammersmith",51.491093,-0.216493,9,20,30,2026-08-08T11:26:52.903684
+BikePoints_609,"Sugden Road, Clapham",51.465123,-0.157788,12,7,19,2026-08-08T11:26:52.903686
+BikePoints_610,"Danvers Street, West Chelsea",51.482567,-0.172078,0,21,21,2026-08-08T11:26:52.903689
+BikePoints_611,"Princedale Road , Holland Park",51.506465,-0.208486,5,12,20,2026-08-08T11:26:52.903692
+BikePoints_612,"Wandsworth Rd, Isley Court, Wandsworth Road",51.469259,-0.141812,21,7,30,2026-08-08T11:26:52.903695
+BikePoints_613,"Woodstock Grove, Shepherd's Bush",51.504038,-0.2174,4,19,24,2026-08-08T11:26:52.903698
+BikePoints_615,"Finlay Street, Fulham",51.476885,-0.215895,15,8,24,2026-08-08T11:26:52.903700
+BikePoints_616,"Aintree Street, Fulham",51.481021,-0.209973,6,18,24,2026-08-08T11:26:52.903703
+BikePoints_617,"Elysium Place, Fulham",51.471079,-0.207842,10,9,21,2026-08-08T11:26:52.903706
+BikePoints_618,"Eel Brook Common, Walham Green",51.476259,-0.193254,10,13,24,2026-08-08T11:26:52.903709
+BikePoints_619,"Irene Road, Parsons Green",51.473763,-0.19701,16,6,23,2026-08-08T11:26:52.903713
+BikePoints_620,"Surrey Lane, Battersea",51.47518,-0.16716,11,13,26,2026-08-08T11:26:52.903716
+BikePoints_621,"Wandsworth Town Station, Wandsworth",51.460864,-0.187427,19,12,33,2026-08-08T11:26:52.903719
+BikePoints_622,"Lansdowne Road, Ladbroke Grove",51.507481,-0.205535,6,22,29,2026-08-08T11:26:52.903722
+BikePoints_623,"Nantes Close, Wandsworth",51.46193,-0.180791,14,7,22,2026-08-08T11:26:52.903725
+BikePoints_624,"Courland Grove, Wandsworth Road",51.472918,-0.132102,22,16,40,2026-08-08T11:26:52.903727
+BikePoints_625,"Queen's Circus, Battersea Park",51.477619,-0.149551,21,6,28,2026-08-08T11:26:52.903730
+BikePoints_626,"Normand Park, West Kensington",51.484386,-0.204815,11,13,24,2026-08-08T11:26:52.903733
+BikePoints_627,"Holden Street, Battersea",51.46879,-0.15823,10,8,20,2026-08-08T11:26:52.903736
+BikePoints_628,"William Morris Way, Sands End",51.468819,-0.184318,19,5,26,2026-08-08T11:26:52.903740
+BikePoints_629,"Morie Street, Wandsworth",51.459953,-0.190184,19,9,28,2026-08-08T11:26:52.903743
+BikePoints_630,"Clarence Walk, Stockwell",51.470732,-0.126994,17,9,28,2026-08-08T11:26:52.903746
+BikePoints_631,"Battersea Park Road, Nine Elms",51.479501,-0.14177,22,4,27,2026-08-08T11:26:52.903749
+BikePoints_632,"Sheepcote Lane, Battersea",51.470538,-0.163041,10,18,28,2026-08-08T11:26:52.903752
+BikePoints_633,"Vereker Road, West Kensington",51.489591,-0.209378,12,17,32,2026-08-08T11:26:52.903754
+BikePoints_634,"Brook Green South, Brook Green",51.494347,-0.215804,5,27,33,2026-08-08T11:26:52.903757
+BikePoints_635,"Greyhound Road, Hammersmith",51.486062,-0.214428,12,24,37,2026-08-08T11:26:52.903760
+BikePoints_636,"South Park, Sands End",51.467064,-0.193502,12,15,28,2026-08-08T11:26:52.903763
+BikePoints_638,"Falcon Road, Clapham Junction",51.466633,-0.169821,26,0,28,2026-08-08T11:26:52.903766
+BikePoints_640,"Silverthorne Road, Battersea",51.472865,-0.148059,25,3,28,2026-08-08T11:26:52.903770
+BikePoints_641,"Archbishop's Park, Waterloo",51.498241,-0.117495,14,9,23,2026-08-08T11:26:52.903773
+BikePoints_642,"Fawcett Close, Battersea",51.469161,-0.174485,17,11,30,2026-08-08T11:26:52.903776
+BikePoints_643,"All Saints' Road, Portobello",51.519042,-0.204764,7,14,22,2026-08-08T11:26:52.903779
+BikePoints_644,"Rainville Road, Hammersmith",51.483732,-0.223852,7,29,36,2026-08-08T11:26:52.903783
+BikePoints_645,"Great Suffolk Street, The Borough",51.501732,-0.100292,5,14,21,2026-08-08T11:26:52.903786
+BikePoints_646,"Buckingham Gate, Westminster",51.498865,-0.137424,10,4,16,2026-08-08T11:26:52.903788
+BikePoints_647,"Richmond Way, Shepherd's Bush",51.500353,-0.217515,5,22,27,2026-08-08T11:26:52.903791
+BikePoints_648,"Peterborough Road, Sands End",51.46904,-0.196274,11,9,20,2026-08-08T11:26:52.903794
+BikePoints_649,"World's End Place, West Chelsea",51.481805,-0.180274,8,13,22,2026-08-08T11:26:52.903797
+BikePoints_650,"St. Mark's Road, North Kensington",51.51687,-0.213872,5,14,21,2026-08-08T11:26:52.903799
+BikePoints_651,"Thorndike Close, West Chelsea",51.480898,-0.183853,12,12,25,2026-08-08T11:26:52.903802
+BikePoints_652,"Evesham Street, Avondale",51.511486,-0.21819,14,6,20,2026-08-08T11:26:52.903805
+BikePoints_653,"Simpson Street, Clapham Junction",51.470847,-0.170703,14,9,25,2026-08-08T11:26:52.903820
+BikePoints_654,"Ashmole Estate, Oval",51.482678,-0.117661,18,15,34,2026-08-08T11:26:52.903823
+BikePoints_655,"Crabtree Lane, Fulham",51.482944,-0.219346,10,16,27,2026-08-08T11:26:52.903826
+BikePoints_656,"Broomhouse Lane, Parsons Green",51.468418,-0.199135,27,2,29,2026-08-08T11:26:52.903829
+BikePoints_657,"Blythe Road West, Shepherd's Bush",51.49968,-0.221791,5,16,21,2026-08-08T11:26:52.903832
+BikePoints_658,"Ethelburga Estate, Battersea Park",51.477292,-0.164786,18,8,30,2026-08-08T11:26:52.903834
+BikePoints_659,"Blackfriars Station, St. Paul's",51.511934,-0.103078,12,20,35,2026-08-08T11:26:52.903840
+BikePoints_660,"West Kensington Station, West Kensington",51.49087,-0.206029,8,14,22,2026-08-08T11:26:52.903851
+BikePoints_661,"All Saints Church, Portobello",51.51632,-0.202608,1,31,37,2026-08-08T11:26:52.903854
+BikePoints_662,"Phene Street, Chelsea",51.484984,-0.167919,2,21,24,2026-08-08T11:26:52.903857
+BikePoints_663,"Clarendon Road, Avondale",51.51323,-0.211593,2,17,24,2026-08-08T11:26:52.903860
+BikePoints_664,"Austin Road, Battersea Park",51.474376,-0.155442,14,7,24,2026-08-08T11:26:52.903862
+BikePoints_665,"Smugglers Way, Wandsworth",51.461083,-0.191722,22,2,27,2026-08-08T11:26:52.903865
+BikePoints_666,"Harris Academy, Bermondsey",51.492668,-0.07235,13,4,18,2026-08-08T11:26:52.903868
+BikePoints_667,"Shepherd's Bush Road North, Shepherd's Bush",51.501594,-0.222293,17,14,34,2026-08-08T11:26:52.903871
+BikePoints_668,"Ravenscourt Park Station, Hammersmith",51.494223,-0.236769,13,11,26,2026-08-08T11:26:52.903873
+BikePoints_669,"Teversham Lane, Stockwell",51.476149,-0.123258,12,25,39,2026-08-08T11:26:52.903876
+BikePoints_670,"Ashley Crescent, Battersea",51.467185,-0.152248,16,8,28,2026-08-08T11:26:52.903879
+BikePoints_671,"Parsons Green Station, Parsons Green",51.475089,-0.201968,39,16,56,2026-08-08T11:26:52.903882
+BikePoints_672,"Chicheley Street, South Bank",51.502698,-0.116747,6,16,24,2026-08-08T11:26:52.903884
+BikePoints_673,"Hibbert Street, Battersea",51.46517,-0.180389,28,6,36,2026-08-08T11:26:52.903887
+BikePoints_674,"Carnegie Street, King's Cross",51.535467,-0.116191,13,20,40,2026-08-08T11:26:52.903890
+BikePoints_675,"Usk Road, Clapham Junction",51.463489,-0.182126,20,8,30,2026-08-08T11:26:52.903893
+BikePoints_676,"Hartington Road, Stockwell",51.47787,-0.126874,26,9,35,2026-08-08T11:26:52.903895
+BikePoints_677,"Heath Road, Battersea",51.468669,-0.146544,22,3,27,2026-08-08T11:26:52.903898
+BikePoints_678,"Esmond Street, Putney",51.462312,-0.211468,22,8,30,2026-08-08T11:26:52.903901
+BikePoints_679,"Orbel Street, Battersea",51.474535,-0.17021,13,12,26,2026-08-08T11:26:52.903905
+BikePoints_680,"Westbridge Road, Battersea",51.477684,-0.170329,5,20,28,2026-08-08T11:26:52.903908
+BikePoints_681,"Bishop's Avenue, Fulham",51.473036,-0.214749,30,16,46,2026-08-08T11:26:52.903911
+BikePoints_682,"Crisp Road, Hammersmith",51.488108,-0.226606,40,4,46,2026-08-08T11:26:52.903914
+BikePoints_683,"Dorothy Road, Clapham Junction",51.465064,-0.16375,22,2,28,2026-08-08T11:26:52.903917
+BikePoints_684,"Neville Gill Close, Wandsworth",51.454752,-0.195197,28,3,32,2026-08-08T11:26:52.903919
+BikePoints_685,"Osiers Road, Wandsworth",51.46067,-0.198735,6,23,30,2026-08-08T11:26:52.903922
+BikePoints_686,"Beryl Road, Hammersmith",51.488144,-0.222456,7,18,26,2026-08-08T11:26:52.903925
+BikePoints_687,"Clements Road, Bermondsey",51.4954,-0.061698,9,13,23,2026-08-08T11:26:52.903928
+BikePoints_688,"Northfields, Wandsworth",51.460951,-0.200667,16,11,28,2026-08-08T11:26:52.903930
+BikePoints_689,"Spanish Road, Clapham Junction",51.459225,-0.180884,26,4,30,2026-08-08T11:26:52.903933
+BikePoints_690,"Stanley Grove, Battersea",51.470475,-0.15213,7,16,24,2026-08-08T11:26:52.903936
+BikePoints_691,"Erin Close, Walham Green",51.479463,-0.195777,13,11,24,2026-08-08T11:26:52.903939
+BikePoints_692,"Cadogan Close, Victoria Park",51.542118,-0.028941,18,3,22,2026-08-08T11:26:52.903941
+BikePoints_693,"Felsham Road, Putney",51.464786,-0.215618,16,0,18,2026-08-08T11:26:52.903944
+BikePoints_694,"Putney Rail Station, Putney",51.460717,-0.216526,12,6,20,2026-08-08T11:26:52.903949
+BikePoints_695,"Islington Green, Angel",51.536384,-0.102757,13,5,21,2026-08-08T11:26:52.903953
+BikePoints_696,"Charing Cross Hospital, Hammersmith",51.487285,-0.217995,13,7,21,2026-08-08T11:26:52.903956
+BikePoints_697,"Charlotte Terrace, Angel",51.536392,-0.112721,10,7,25,2026-08-08T11:26:52.903959
+BikePoints_698,"Shoreditch Court, Haggerston",51.539083,-0.070329,14,21,35,2026-08-08T11:26:52.903961
+BikePoints_699,"Belford House, Haggerston",51.536654,-0.07023,3,36,39,2026-08-08T11:26:52.903966
+BikePoints_700,"Battersea Church Road, Battersea",51.476964,-0.174347,13,11,25,2026-08-08T11:26:52.903969
+BikePoints_701,"Vicarage Crescent, Battersea",51.472876,-0.176267,8,19,30,2026-08-08T11:26:52.903971
+BikePoints_702,"Durant Street, Bethnal Green",51.528681,-0.06555,1,22,24,2026-08-08T11:26:52.903974
+BikePoints_703,"St. Bride Street, Holborn",51.514665,-0.104583,6,15,24,2026-08-08T11:26:52.903977
+BikePoints_704,"Mexfield Road, East Putney",51.45682,-0.202802,3,13,18,2026-08-08T11:26:52.903980
+BikePoints_705,"Upper Richmond Road, Putney",51.459715,-0.212145,7,16,25,2026-08-08T11:26:52.903983
+BikePoints_706,"Snowsfields, London Bridge",51.502153,-0.083632,28,3,31,2026-08-08T11:26:52.903985
+BikePoints_707,"Barons Court Station, West Kensington",51.490217,-0.215087,30,2,32,2026-08-08T11:26:52.903988
+BikePoints_708,"Disraeli Road, Putney",51.46161,-0.216145,12,19,33,2026-08-08T11:26:52.903991
+BikePoints_709,"Montserrat Road , Putney",51.463211,-0.21555,20,2,23,2026-08-08T11:26:52.903994
+BikePoints_710,"Albert Bridge Road, Battersea Park",51.474392,-0.163347,10,10,20,2026-08-08T11:26:52.903997
+BikePoints_711,"Everington Street, Fulham",51.483356,-0.216305,17,12,31,2026-08-08T11:26:52.903999
+BikePoints_712,"Mile End Stadium, Mile End",51.518541,-0.034903,9,11,22,2026-08-08T11:26:52.904002
+BikePoints_713,"Hawley Crescent, Camden Town",51.541007,-0.14326,8,12,22,2026-08-08T11:26:52.904005
+BikePoints_714,"Stewart's Road, Wandsworth Road",51.473116,-0.137235,21,6,28,2026-08-08T11:26:52.904008
+BikePoints_715,"Aylward Street, Stepney",51.51563,-0.049067,7,13,22,2026-08-08T11:26:52.904011
+BikePoints_716,"Stainsby Road , Poplar",51.515427,-0.023565,6,13,24,2026-08-08T11:26:52.904013
+BikePoints_717,"Dunston Road , Haggerston",51.536585,-0.075885,12,25,43,2026-08-08T11:26:52.904016
+BikePoints_718,"Ada Street, Hackney Central",51.535716,-0.060291,14,30,45,2026-08-08T11:26:52.904021
+BikePoints_719,"Victoria Park Road, Hackney Central",51.536424,-0.054162,10,24,34,2026-08-08T11:26:52.904023
+BikePoints_720,"Star Road, West Kensington",51.487244,-0.205279,13,10,23,2026-08-08T11:26:52.904026
+BikePoints_721,"Wendon Street, Old Ford",51.536039,-0.026262,0,17,18,2026-08-08T11:26:52.904029
+BikePoints_722,"Finnis Street, Bethnal Green",51.524583,-0.058631,11,7,19,2026-08-08T11:26:52.904032
+BikePoints_723,"Stephendale Road, Sands End",51.46822,-0.190346,23,23,48,2026-08-08T11:26:52.904035
+BikePoints_724,"Alma Road, Wandsworth",51.457991,-0.184806,9,14,28,2026-08-08T11:26:52.904038
+BikePoints_725,"Walworth Square, Walworth",51.491327,-0.096518,22,2,24,2026-08-08T11:26:52.904040
+BikePoints_726,"Alfreda Street, Battersea Park",51.47505,-0.150908,18,4,22,2026-08-08T11:26:52.904043
+BikePoints_727,"Chesilton Road, Fulham",51.475698,-0.205876,14,7,23,2026-08-08T11:26:52.904046
+BikePoints_728,"Putney Bridge Road, East Putney",51.461999,-0.20624,7,22,29,2026-08-08T11:26:52.904049
+BikePoints_729,"St. Peter's Terrace, Fulham",51.478939,-0.208485,1,22,24,2026-08-08T11:26:52.904052
+BikePoints_730,"Bridge Avenue, Hammersmith",51.492084,-0.229116,9,8,18,2026-08-08T11:26:52.904054
+BikePoints_731,"Michael Road, Walham Green",51.477276,-0.18921,15,22,37,2026-08-08T11:26:52.904057
+BikePoints_732,"Duke Street Hill, London Bridge",51.506304,-0.087262,6,13,21,2026-08-08T11:26:52.904060
+BikePoints_733,"Park Lane, Mayfair",51.505426,-0.150817,2,16,18,2026-08-08T11:26:52.904063
+BikePoints_734,"Plough Terrace, Clapham Junction",51.462305,-0.175407,26,1,31,2026-08-08T11:26:52.904065
+BikePoints_735,"Grant Road East, Clapham Junction",51.464894,-0.173029,26,2,28,2026-08-08T11:26:52.904068
+BikePoints_736,"Queensdale Road, Shepherd's Bush",51.50659,-0.216104,12,16,28,2026-08-08T11:26:52.904071
+BikePoints_737,"Fulham Broadway, Walham Green",51.479932,-0.194116,19,4,26,2026-08-08T11:26:52.904074
+BikePoints_738,"Imperial Road, Sands End",51.475142,-0.187278,17,20,37,2026-08-08T11:26:52.904078
+BikePoints_739,"Hortensia Road, West Brompton",51.481765,-0.185273,17,10,28,2026-08-08T11:26:52.904082
+BikePoints_740,"Sirdar Road, Avondale",51.510928,-0.214594,8,12,20,2026-08-08T11:26:52.904085
+BikePoints_741,"Freston Road, Avondale",51.512981,-0.219486,10,10,23,2026-08-08T11:26:52.904088
+BikePoints_742,"Blenheim Crescent, Ladbroke Grove",51.515108,-0.208565,12,7,22,2026-08-08T11:26:52.904090
+BikePoints_743,"Oxford Road, Putney",51.460792,-0.212607,17,3,20,2026-08-08T11:26:52.904093
+BikePoints_744,"Ingrave Street, Clapham Junction",51.467454,-0.172293,28,0,30,2026-08-08T11:26:52.904096
+BikePoints_745,"Upcerne Road, West Chelsea",51.478169,-0.182435,24,5,29,2026-08-08T11:26:52.904099
+BikePoints_746,"Lots Road, West Chelsea",51.479573,-0.179038,4,18,24,2026-08-08T11:26:52.904102
+BikePoints_747,"Ormonde Gate, Chelsea",51.487964,-0.161765,14,9,24,2026-08-08T11:26:52.904106
+BikePoints_748,"Hertford Road, De Beauvoir Town",51.537277,-0.079201,15,9,25,2026-08-08T11:26:52.904109
+BikePoints_749,"Haggerston Road, Haggerston",51.539328,-0.074284,31,5,37,2026-08-08T11:26:52.904112
+BikePoints_750,"Culvert Road, Battersea",51.471095,-0.15785,22,4,27,2026-08-08T11:26:52.904115
+BikePoints_751,"Newton Street, Covent Garden",51.516128,-0.120909,3,20,24,2026-08-08T11:26:52.904117
+BikePoints_752,"London Street, Paddington",51.515117,-0.173712,9,7,19,2026-08-08T11:26:52.904120
+BikePoints_753,"Clapham South, Clapham South",51.452997,-0.148651,8,18,28,2026-08-08T11:26:52.904123
+BikePoints_754,"Grenfell Road, Avondale",51.5129,-0.214762,6,18,24,2026-08-08T11:26:52.904126
+BikePoints_755,"The Vale, Chelsea",51.485121,-0.174971,7,16,24,2026-08-08T11:26:52.904129
+BikePoints_756,"Prince of Wales Drive, Battersea Park",51.475153,-0.159169,17,3,21,2026-08-08T11:26:52.904131
+BikePoints_757,"Harcourt Terrace, West Brompton",51.487958,-0.187404,8,13,24,2026-08-08T11:26:52.904136
+BikePoints_758,"Westbourne Park Road, Portobello",51.51787,-0.201005,11,12,23,2026-08-08T11:26:52.904140
+BikePoints_759,"Broadley Terrace, Marylebone",51.524561,-0.165668,0,17,18,2026-08-08T11:26:52.904143
+BikePoints_760,"Elgin Avenue, Maida Hill",51.524309,-0.201234,4,11,18,2026-08-08T11:26:52.904146
+BikePoints_761,"Humbolt Road, Fulham",51.483217,-0.21186,18,7,26,2026-08-08T11:26:52.904149
+BikePoints_762,"Storey's Gate, Westminster",51.500703,-0.129698,16,3,21,2026-08-08T11:26:52.904151
+BikePoints_763,"Mile End Park Leisure Centre, Mile End",51.520597,-0.032566,27,18,47,2026-08-08T11:26:52.904154
+BikePoints_764,"St. John's Road, Clapham Junction",51.462392,-0.168292,31,1,33,2026-08-08T11:26:52.904157
+BikePoints_765,"Ranelagh Gardens, Fulham",51.467601,-0.206827,17,12,29,2026-08-08T11:26:52.904160
+BikePoints_766,"Ram Street, Wandsworth",51.457529,-0.192165,21,2,25,2026-08-08T11:26:52.904162
+BikePoints_767,"Santos Road, Wandsworth",51.457059,-0.200806,21,6,30,2026-08-08T11:26:52.904165
+BikePoints_768,"Clapham Common North Side, Clapham Common",51.461343,-0.159322,22,14,37,2026-08-08T11:26:52.904168
+BikePoints_769,"Sandilands Road, Walham Green",51.473611,-0.191803,16,3,21,2026-08-08T11:26:52.904171
+BikePoints_770,"Gwendwr Road, West Kensington",51.491026,-0.209121,20,8,30,2026-08-08T11:26:52.904174
+BikePoints_771,"Rifle Place, Avondale",51.509224,-0.216016,13,4,21,2026-08-08T11:26:52.904176
+BikePoints_772,"Binfield Road, Stockwell",51.472509,-0.122831,34,0,35,2026-08-08T11:26:52.904179
+BikePoints_773,"Tallis Street, Temple",51.511891,-0.107349,1,21,24,2026-08-08T11:26:52.904182
+BikePoints_774,"Hurlingham Park, Parsons Green",51.470131,-0.20464,13,7,20,2026-08-08T11:26:52.904185
+BikePoints_775,"Little Brook Green, Brook Green",51.496664,-0.223868,14,19,33,2026-08-08T11:26:52.904188
+BikePoints_776,"Adeline Place, Bloomsbury",51.517632,-0.129985,4,17,22,2026-08-08T11:26:52.904190
+BikePoints_779,"Houndsditch, Aldgate",51.514449,-0.077178,1,26,28,2026-08-08T11:26:52.904198
+BikePoints_780,"Imperial Wharf Station, Sands End",51.474665,-0.183165,16,9,25,2026-08-08T11:26:52.904201
+BikePoints_782,"Halford Road, West Kensington",51.483911,-0.197609,16,7,24,2026-08-08T11:26:52.904204
+BikePoints_783,"Monier Road, Hackney Wick",51.540311,-0.02163,11,13,27,2026-08-08T11:26:52.904207
+BikePoints_784,"East Village, Queen Elizabeth Olympic Park",51.546326,-0.009935,24,9,34,2026-08-08T11:26:52.904209
+BikePoints_785,"Aquatic Centre, Queen Elizabeth Olympic Park",51.541482,-0.010437,20,5,30,2026-08-08T11:26:52.904212
+BikePoints_786,"Lee Valley VeloPark, Queen Elizabeth Olympic Park",51.549369,-0.015717,7,35,44,2026-08-08T11:26:52.904215
+BikePoints_787,"Timber Lodge, Queen Elizabeth Olympic Park",51.546805,-0.014691,6,26,35,2026-08-08T11:26:52.904218
+BikePoints_788,"Copper Box Arena, Queen Elizabeth Olympic Park",51.544909,-0.020542,9,19,31,2026-08-08T11:26:52.904220
+BikePoints_789,"Podium, Queen Elizabeth Olympic Park",51.538718,-0.011889,18,20,40,2026-08-08T11:26:52.904223
+BikePoints_790,"Stratford Station, Stratford",51.541793,-0.00481,18,7,28,2026-08-08T11:26:52.904226
+BikePoints_792,"Blackfriars Road, Southwark",51.505461,-0.10454,1,39,42,2026-08-08T11:26:52.904229
+BikePoints_793,"Cromer Street, Bloomsbury",51.528279,-0.119558,16,10,28,2026-08-08T11:26:52.904232
+BikePoints_795,"Euston Square Gardens, Euston",51.527068,-0.131861,13,15,30,2026-08-08T11:26:52.904234
+BikePoints_796,"Coram Street, Bloomsbury",51.524,-0.126409,7,21,29,2026-08-08T11:26:52.904237
+BikePoints_797,"Ossulston Street, Somers Town",51.5293,-0.128279,25,4,30,2026-08-08T11:26:52.904240
+BikePoints_798,"Birkenhead Street, King's Cross",51.530199,-0.122299,10,14,27,2026-08-08T11:26:52.904243
+BikePoints_799,"Kings Gate House, Westminster",51.497698,-0.137598,13,10,24,2026-08-08T11:26:52.904246
+BikePoints_800,"Sopwith Way, Battersea Park",51.481121,-0.149035,3,22,30,2026-08-08T11:26:52.904248
+BikePoints_801,"Lavington Street, Bankside",51.505224,-0.098031,2,24,29,2026-08-08T11:26:52.904253
+BikePoints_802,"Albert Square, Stockwell",51.47659,-0.118256,19,11,32,2026-08-08T11:26:52.904257
+BikePoints_803,"Southwark Street, Bankside",51.505409,-0.098341,6,17,23,2026-08-08T11:26:52.904260
+BikePoints_804,"Good's Way, King's Cross",51.534667,-0.125078,17,8,27,2026-08-08T11:26:52.904263
+BikePoints_805,"The Metropolitan, Portobello",51.520509,-0.200804,5,10,18,2026-08-08T11:26:52.904266
+BikePoints_807,"Bevington Road West, North Kensington",51.5212,-0.208888,16,6,24,2026-08-08T11:26:52.904268
+BikePoints_808,"Gauden Road, Clapham",51.464995,-0.130908,9,17,28,2026-08-08T11:26:52.904271
+BikePoints_809,"Lincoln's Inn Fields, Holborn",51.516277,-0.118272,5,21,28,2026-08-08T11:26:52.904274
+BikePoints_810,"Tate Modern, Bankside",51.506725,-0.098807,9,20,30,2026-08-08T11:26:52.904277
+BikePoints_811,"Westferry Circus, Canary Wharf",51.505703,-0.027772,3,28,36,2026-08-08T11:26:52.904280
+BikePoints_812,"Here East North, Queen Elizabeth Olympic Park",51.548731,-0.022606,21,4,28,2026-08-08T11:26:52.904282
+BikePoints_813,"New Spring Gardens Walk, Vauxhall",51.487807,-0.122759,19,13,33,2026-08-08T11:26:52.904285
+BikePoints_814,"Clapham Road, Lingham Street, Stockwell",51.471433,-0.12367,15,13,30,2026-08-08T11:26:52.904288
+BikePoints_815,"Lambeth Palace Road, Waterloo",51.500089,-0.116628,15,19,35,2026-08-08T11:26:52.904291
+BikePoints_816,"Here East South, Queen Elizabeth Olympic Park",51.546532,-0.020597,8,12,20,2026-08-08T11:26:52.904294
+BikePoints_818,"Westminster Pier, Westminster",51.501513,-0.123823,14,11,27,2026-08-08T11:26:52.904296
+BikePoints_819,"Belvedere Road 2, South Bank",51.50621,-0.114842,8,30,38,2026-08-08T11:26:52.904299
+BikePoints_820,"Victory Place, Walworth",51.492807,-0.091938,5,18,24,2026-08-08T11:26:52.904302
+BikePoints_821,"Battersea Power Station, Battersea Park",51.483507,-0.147714,10,16,27,2026-08-08T11:26:52.904305
+BikePoints_826,"Allington Street, Victoria",51.496863,-0.142943,19,5,28,2026-08-08T11:26:52.904308
+BikePoints_827,"Cranmer Road, Stockwell",51.479601,-0.111471,11,12,24,2026-08-08T11:26:52.904313
+BikePoints_828,"Normandy Road, Stockwell",51.473874,-0.11258,14,17,32,2026-08-08T11:26:52.904316
+BikePoints_829,"Wynne Road, Stockwell",51.469217,-0.112686,21,4,25,2026-08-08T11:26:52.904318
+BikePoints_830,"Sidney Road, Stockwell",51.469202,-0.119022,7,18,27,2026-08-08T11:26:52.904321
+BikePoints_831,"St John's Crescent, Brixton",51.466232,-0.113179,21,2,25,2026-08-08T11:26:52.904324
+BikePoints_832,"Ferndale Road, Brixton",51.464019,-0.115781,14,14,30,2026-08-08T11:26:52.904328
+BikePoints_833,"Saltoun Road, Brixton",51.460232,-0.115375,31,10,42,2026-08-08T11:26:52.904331
+BikePoints_834,"Gas Holders, Battersea Park",51.477966,-0.147857,19,6,26,2026-08-08T11:26:52.904334
+BikePoints_835,"Farringdon Street, Holborn",51.516785,-0.104947,0,23,25,2026-08-08T11:26:52.904337
+BikePoints_836,"York Way, Kings Cross",51.541596,-0.125441,8,14,24,2026-08-08T11:26:52.904339
+BikePoints_838,"Fore Street, Guildhall",51.518093,-0.091401,3,21,25,2026-08-08T11:26:52.904342
+BikePoints_839,"Sea Containers, South Bank",51.508033,-0.106823,9,20,30,2026-08-08T11:26:52.904345
+BikePoints_840,"George Row, Bermondsey",51.498585,-0.068981,10,11,22,2026-08-08T11:26:52.904348
+BikePoints_841,"Tower Wharf, Bermondsey",51.500845,-0.074704,4,16,20,2026-08-08T11:26:52.904351
+BikePoints_842,"Temple Gardens, Temple",51.510981,-0.108322,4,18,24,2026-08-08T11:26:52.904354
+BikePoints_844,"Canada Water Station, Rotherhithe",51.498439,-0.04915,14,20,35,2026-08-08T11:26:52.904356
+BikePoints_845,"Bermondsey Station, Bermondsey",51.497995,-0.063471,12,17,30,2026-08-08T11:26:52.904359
+BikePoints_846,"Burgess Park Albany Road, Walworth",51.48224,-0.094284,15,13,30,2026-08-08T11:26:52.904362
+BikePoints_847,"South Bermondsey Station, Bermondsey",51.488067,-0.057774,10,13,24,2026-08-08T11:26:52.904365
+BikePoints_849,"Crimscott Street, Bermondsey",51.495598,-0.078893,2,16,19,2026-08-08T11:26:52.904369
+BikePoints_850,"Brandon Street, Walworth",51.489102,-0.091548,5,17,22,2026-08-08T11:26:52.904372
+BikePoints_851,"The Blue, Bermondsey",51.492221,-0.062513,7,15,22,2026-08-08T11:26:52.904375
+BikePoints_852,"Coomer Place, West Kensington",51.48357,-0.202038,20,6,27,2026-08-08T11:26:52.904378
+BikePoints_857,"Strand, Strand",51.512582,-0.115057,5,23,35,2026-08-08T11:26:52.904381
+BikePoints_864,"Abbey Orchard Street, Westminster",51.498125,-0.132102,14,13,29,2026-08-08T11:26:52.904383
+BikePoints_865,"Leonard Circus , Shoreditch",51.524696,-0.084439,7,36,43,2026-08-08T11:26:52.904386
+BikePoints_866,"Limburg Road, Clapham Junction",51.461923,-0.165297,18,1,21,2026-08-08T11:26:52.904389
+BikePoints_867,"Pritchard's Road, Bethnal Green",51.532091,-0.061419,6,22,30,2026-08-08T11:26:52.904392
+BikePoints_868,"Kennington Lane Rail Bridge, Vauxhall",51.486343,-0.122492,31,0,31,2026-08-08T11:26:52.904395
+BikePoints_869,"Albert Embankment, Vauxhall",51.490435,-0.122806,1,23,24,2026-08-08T11:26:52.904397
+BikePoints_870,"Lower Marsh, Waterloo",51.500139,-0.113935,10,7,17,2026-08-08T11:26:52.904400
+BikePoints_872,"Risinghill Street, Angel",51.533319,-0.111781,0,22,25,2026-08-08T11:26:52.904403
+BikePoints_873,"St. Pancras Way, Camden Town",51.537071,-0.13285,1,19,20,2026-08-08T11:26:52.904407
+BikePoints_874,"Handyside Street, King's Cross",51.53724,-0.124807,6,20,27,2026-08-08T11:26:52.904410
+BikePoints_875,"Victoria Rise, Clapham Common",51.461376,-0.147804,21,1,23,2026-08-08T11:26:52.904413
+BikePoints_876,"Old Quebec Street, Marylebone",51.514577,-0.158264,6,9,16,2026-08-08T11:26:52.904416
+BikePoints_877,"Spencer Park, Wandsworth Common",51.45787,-0.174691,22,0,25,2026-08-08T11:26:52.904419
+BikePoints_878,"Victoria & Albert Museum, South Kensington",51.495898,-0.173009,11,19,30,2026-08-08T11:26:52.904421
+BikePoints_879,"BBC White City, White City",51.514767,-0.225786,15,15,36,2026-08-08T11:26:52.904424
+BikePoints_881,"Albany Street, The Regent's Park",51.528302,-0.144465,8,17,27,2026-08-08T11:26:52.904429
+BikePoints_882,"Maplin Street, Mile End",51.525501,-0.032267,27,6,39,2026-08-08T11:26:52.904431
+BikePoints_883,"London Fields, Hackney Central",51.54119,-0.058826,16,1,21,2026-08-08T11:26:52.904434
+BikePoints_884,"Westfield Ariel Way, White City",51.509158,-0.224103,21,20,42,2026-08-08T11:26:52.904437
+BikePoints_885,"Gloucester Avenue, Camden Town",51.537349,-0.147154,7,17,24,2026-08-08T11:26:52.904440
+BikePoints_887,"London Zoo Car Park, The Regent's Park",51.536922,-0.150181,18,17,36,2026-08-08T11:26:52.904443
+BikePoints_888,"Norton Folgate, Liverpool Street",51.521113,-0.078869,5,16,23,2026-08-08T11:26:52.904445
+BikePoints_889,"Horse Guards Avenue, Westminster",51.505031,-0.123,11,18,29,2026-08-08T11:26:52.904448
+BikePoints_890,"Burdett Road, Mile End",51.516196,-0.029137,14,15,33,2026-08-08T11:26:52.904451
+BikePoints_591,"Westfield Library Corner, Shepherd's Bush",51.506093,-0.224223,12,15,27,2026-08-08T11:26:52.904454
